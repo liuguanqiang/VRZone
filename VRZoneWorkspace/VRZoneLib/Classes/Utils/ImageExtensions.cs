@@ -65,5 +65,45 @@ namespace VRZoneLib.Classes.Utils
             catch { }
             return null;
         }
+
+        /// <summary> 从文件中读取 ImageSource </summary>
+        /// <param name="url">网络路径</param>
+        /// <returns>读取到的 ImageSource </returns>
+        public static ImageSource GetHttpImageSource(this string url)
+        {
+            try
+            {
+                var webRequest = HttpServices.CreatRequest(url);
+                using (Stream responseStream = webRequest.GetResponse().GetResponseStream())
+                {
+                    var binReader = new BinaryReader(responseStream);
+                    byte[] bytes = GetImageFromResponse(responseStream);
+                    var bitmap = new BitmapImage();
+                    bitmap.CreateOptions = BitmapCreateOptions.IgnoreImageCache;
+                    bitmap.BeginInit();
+                    bitmap.StreamSource = new MemoryStream(bytes);
+                    bitmap.EndInit();
+                    return bitmap;
+                }
+            }
+            catch (Exception ex)
+            {
+            }
+            return null;
+        }
+
+        private static byte[] GetImageFromResponse(Stream stream)
+        {
+            using (MemoryStream ms = new MemoryStream())
+            {
+                Byte[] buffer = new Byte[1024];
+                int current = 0;
+                while ((current = stream.Read(buffer, 0, buffer.Length)) != 0)
+                {
+                    ms.Write(buffer, 0, current);
+                }
+                return ms.ToArray();
+            }
+        }
     }
 }
