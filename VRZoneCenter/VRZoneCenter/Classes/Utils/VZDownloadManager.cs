@@ -53,7 +53,7 @@ namespace VRZoneCenter.Classes.Utils
 
         public static VZDownloadManager getSingleton()
         {
-            if(singleton == null)
+            if (singleton == null)
             {
                 singleton = new VZDownloadManager();
             }
@@ -62,11 +62,12 @@ namespace VRZoneCenter.Classes.Utils
 
         public bool isUpdating()
         {
-            if(downloadThread!= null && downloadThread.IsAlive)
+            if (downloadThread != null && downloadThread.IsAlive)
             {
                 return true;
             }
-            else{
+            else
+            {
                 return false;
             }
         }
@@ -113,9 +114,9 @@ namespace VRZoneCenter.Classes.Utils
                                 VZ_FileInfos infos = fileList[0];
                                 try
                                 {
-                                    if(oldFileDic.ContainsKey(infos.path))
+                                    if (oldFileDic.ContainsKey(infos.path))
                                     {
-                                        if(oldFileDic[infos.path].Equals(infos.md5))
+                                        if (oldFileDic[infos.path].Equals(infos.md5))
                                         {
                                             if (callback != null)
                                             {
@@ -127,8 +128,9 @@ namespace VRZoneCenter.Classes.Utils
                                     }
                                     downloadFile(infos, infos.url, updatePath + infos.path, ref progress);
                                 }
-                                catch(Exception ex)
+                                catch (Exception ex)
                                 {
+                                    Scratch.Log.LogConfig.Logger.Error("出错：", ex);
                                     break;
                                 }
                                 fileList.Remove(infos);
@@ -153,14 +155,14 @@ namespace VRZoneCenter.Classes.Utils
             downloadThread = null;
         }
 
-        public void setUpdateList(String newJson,long buildNo, String currentJson)
+        public void setUpdateList(String newJson, long buildNo, String currentJson)
         {
             oldFileDic = new Dictionary<string, string>();
             fileList = JsonHelper.DeserializeJsonToList<VZ_FileInfos>(currentJson);
-            if(fileList != null)
+            if (fileList != null)
             {
 
-                foreach(VZ_FileInfos info in fileList)
+                foreach (VZ_FileInfos info in fileList)
                 {
                     oldFileDic[info.path] = info.md5;
                 }
@@ -263,8 +265,9 @@ namespace VRZoneCenter.Classes.Utils
                 //下载完毕
 
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
+                Scratch.Log.LogConfig.Logger.Error("出错：", ex);
                 if (request != null)
                 {
                     request.Abort();

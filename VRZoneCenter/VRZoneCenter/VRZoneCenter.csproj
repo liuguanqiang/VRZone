@@ -1470,6 +1470,10 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\VRZoneWorkspace\VRZone.Log\VRZone.Log.csproj">
+      <Project>{b84366c4-8734-464d-a10f-09b014395978}</Project>
+      <Name>VRZone.Log</Name>
+    </ProjectReference>
     <ProjectReference Include="..\..\VRZoneWorkspace\VRZoneLib\VRZoneLib.csproj">
       <Project>{afa8ada1-ecb8-48fa-bbf7-420074bddebf}</Project>
       <Name>VRZoneLib</Name>

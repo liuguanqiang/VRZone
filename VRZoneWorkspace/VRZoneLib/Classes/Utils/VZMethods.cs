@@ -9,6 +9,7 @@ using System.Windows.Media.Imaging;
 using MahApps.Metro.Controls;
 using System.Windows.Controls;
 using VRZoneLib.Classes.Units;
+using Scratch.Log;
 
 namespace VRZoneLib.Classes.Utils
 {
@@ -64,7 +65,7 @@ namespace VRZoneLib.Classes.Utils
         public static Tile getNoBgImageButton(Image img)
         {
             Tile bt = new Tile();
-            bt.SetValue(Tile.WidthProperty,Double.NaN);
+            bt.SetValue(Tile.WidthProperty, Double.NaN);
             bt.SetValue(Tile.HeightProperty, Double.NaN);
             bt.Background = new SolidColorBrush(Colors.Transparent);
             bt.BorderBrush = new SolidColorBrush(Colors.Transparent);
@@ -73,14 +74,14 @@ namespace VRZoneLib.Classes.Utils
             return bt;
         }
 
-        public static void getNetImage(Image img,String url)
+        public static void getNetImage(Image img, String url)
         {
             getNetImage(img, url, 0);
         }
 
-        public static void getNetImage(Image img, String url,int times)
+        public static void getNetImage(Image img, String url, int times)
         {
-            if(String.IsNullOrEmpty(url) || times > 3)
+            if (String.IsNullOrEmpty(url) || times > 3)
             {
                 return;
             }
@@ -91,7 +92,7 @@ namespace VRZoneLib.Classes.Utils
                 {
                     Thread.Sleep(1000);
                     times++;
-                    getNetImage(img, url,times);
+                    getNetImage(img, url, times);
                     return;
                 }
                 imageSource.Freeze();
@@ -133,6 +134,7 @@ namespace VRZoneLib.Classes.Utils
             }
             catch (Exception ex)
             {
+                LogConfig.Logger.Error("出错：", ex);
                 return "";
             }
         }
@@ -162,7 +164,7 @@ namespace VRZoneLib.Classes.Utils
 
         }
 
-        public static void saveFile(String path,String data)
+        public static void saveFile(String path, String data)
         {
             if (File.Exists(path))
             {

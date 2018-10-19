@@ -98,9 +98,9 @@ namespace VRZoneUpdater
                             File.Delete(filePath);
                         }
                     }
-                    catch(Exception ex)
+                    catch (Exception ex)
                     {
-                        
+                       
                     }
                     updateProgress(++i,md5List.Count);
                 }

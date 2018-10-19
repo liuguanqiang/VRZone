@@ -25,7 +25,7 @@ namespace VRZoneCenter.Classes.Utils
         private static VZ_AppProcessHelper singleton = null;
         public static VZ_AppProcessHelper getSingleton()
         {
-            if(singleton == null)
+            if (singleton == null)
             {
                 singleton = new VZ_AppProcessHelper();
             }
@@ -58,10 +58,10 @@ namespace VRZoneCenter.Classes.Utils
 
         public Screen getSecondScreen()
         {
-            for (int i = 0; i < Screen.AllScreens.Length;i++)
+            for (int i = 0; i < Screen.AllScreens.Length; i++)
             {
                 Screen scr = Screen.AllScreens[i];
-                if((scr.Bounds.X != 0 || scr.Bounds.Y != 0) && !(scr.Bounds.X == 0 && scr.Bounds.Y == 0))
+                if ((scr.Bounds.X != 0 || scr.Bounds.Y != 0) && !(scr.Bounds.X == 0 && scr.Bounds.Y == 0))
                 {
                     return scr;
                 }
@@ -78,9 +78,9 @@ namespace VRZoneCenter.Classes.Utils
                     topVideoWindow.setMuted(isMuted);
                 }
             }
-            catch
+            catch (Exception ex)
             {
-
+                Scratch.Log.LogConfig.Logger.Error("出错：", ex);
             }
         }
 
@@ -96,8 +96,9 @@ namespace VRZoneCenter.Classes.Utils
                 topVideoWindow.Visibility = System.Windows.Visibility.Visible;
                 topVideoWindow.play();
             }
-            catch
+            catch (Exception ex)
             {
+                Scratch.Log.LogConfig.Logger.Error("出错：", ex);
                 topVideoWindow = null;
             }
         }
@@ -158,11 +159,11 @@ namespace VRZoneCenter.Classes.Utils
 
             }
         }
-        
 
-        private void AsyncRunApp2(VZ_AppInfo info,Process proc)
+
+        private void AsyncRunApp2(VZ_AppInfo info, Process proc)
         {
-            if(!info.appId.Equals("9"))
+            if (!info.appId.Equals("9"))
             {
                 proc.WaitForInputIdle();
             }
@@ -213,7 +214,7 @@ namespace VRZoneCenter.Classes.Utils
 
         private void Timer_Elapsed(object sender, System.Timers.ElapsedEventArgs e)
         {
-            if(currentInfo == null || proList.Count == 0)
+            if (currentInfo == null || proList.Count == 0)
             {
                 closeAppTimer();
                 return;
@@ -237,7 +238,7 @@ namespace VRZoneCenter.Classes.Utils
         {
             try
             {
-                if(currentInfo != null)
+                if (currentInfo != null)
                 {
                     currentTime = DateTime.Now.Ticks - currentTime;
                     currentTime = currentTime / 10000000;
@@ -268,9 +269,9 @@ namespace VRZoneCenter.Classes.Utils
 
                 proList.Clear();
             }
-            catch
+            catch (Exception ex)
             {
-
+                Scratch.Log.LogConfig.Logger.Error("出错：", ex);
             }
         }
 
@@ -316,9 +317,9 @@ namespace VRZoneCenter.Classes.Utils
                     }
                 }
             }
-            catch
+            catch (Exception ex)
             {
-
+                Scratch.Log.LogConfig.Logger.Error("出错：", ex);
             }
         }
 
@@ -337,9 +338,9 @@ namespace VRZoneCenter.Classes.Utils
                     }
                 }
             }
-            catch
+            catch (Exception ex)
             {
-
+                Scratch.Log.LogConfig.Logger.Error("出错：", ex);
             }
         }
 

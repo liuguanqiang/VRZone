@@ -66,10 +66,9 @@ namespace VRZoneCenter.Classes.Utils
                 checkVersion();
                 return;
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
-                //MessageBox.Show(ex.ToString() + "");
-                return;
+                Scratch.Log.LogConfig.Logger.Error("出错：", ex);
             }
         }
 
@@ -112,9 +111,8 @@ namespace VRZoneCenter.Classes.Utils
                 }
                 catch (Exception ex)
                 {
-
+                    Scratch.Log.LogConfig.Logger.Error("出错：", ex);
                 }
-                return;
             }
         }
 
@@ -154,9 +152,9 @@ namespace VRZoneCenter.Classes.Utils
                             Directory.Delete(VZDownloadManager.getSingleton().updatePath, true);
                         }
                     }
-                    catch
+                    catch (Exception ex)
                     {
-
+                        Scratch.Log.LogConfig.Logger.Error("出错：", ex);
                     }
                     VZ_AppHelper.GetInstance().systemInfo.updateBuild = VZ_AppHelper.GetInstance().systemInfo.build;
                     updateList = "";

@@ -35,6 +35,7 @@ namespace VRZoneCenter
             priceTimer.Start();
             //VZ_BGUpdater.getSingleton().request4VersionInfo();
             tb_version.Text = VZ_AppHelper.GetInstance().systemInfo.version + " build(" + VZ_AppHelper.GetInstance().systemInfo.build + ")";
+            AppDomain.CurrentDomain.UnhandledException += CurrentDomain_UnhandledException;
         }
 
         private void PriceTimer_Elapsed(object sender, System.Timers.ElapsedEventArgs e)
@@ -140,7 +141,7 @@ namespace VRZoneCenter
         {
             Dispatcher.BeginInvoke((Action)(() =>
             {
-                tb_log.Text = "下载中 " + info.url + "  "+ progress + "%";
+                tb_log.Text = "下载中 " + info.url + "  " + progress + "%";
             }));
         }
 
@@ -153,7 +154,7 @@ namespace VRZoneCenter
         }
 
         public void VZDownloadComplete(VZ_FileInfos info)
-        { 
+        {
             Dispatcher.BeginInvoke((Action)(() =>
             {
                 tb_log.Text = "下载完毕 " + info.url;
@@ -177,5 +178,14 @@ namespace VRZoneCenter
             }));
         }
 
+        private void CurrentDomain_UnhandledException(object sender, UnhandledExceptionEventArgs e)
+        {
+            var exception = e.ExceptionObject as Exception;
+            if (exception != null)
+            {
+                Scratch.Log.LogConfig.Logger.Error("崩溃", exception);
+            }
+            System.Windows.Application.Current.Shutdown(0);
+        }
     }
 }

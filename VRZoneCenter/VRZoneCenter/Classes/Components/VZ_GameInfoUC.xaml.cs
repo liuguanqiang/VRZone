@@ -68,9 +68,9 @@ namespace VRZoneCenter.Classes.Components
                     })).Start();
                     bgImage.Source = new BitmapImage(new Uri(info.bgPath, UriKind.Absolute));
                 }
-                catch(Exception ex)
+                catch (Exception ex)
                 {
-                    ex.ToString();
+                    Scratch.Log.LogConfig.Logger.Error("出错：", ex);
                 }
             }
 

@@ -78,6 +78,7 @@
     <Compile Include="Classes\Units\VZ_StateInfo.cs" />
     <Compile Include="Classes\Units\VZ_SystemInfo.cs" />
     <Compile Include="Classes\Units\VZ_VersionInfo.cs" />
+    <Compile Include="Classes\Utils\HttpServices.cs" />
     <Compile Include="Classes\Utils\HttpWebResponseUtility.cs" />
     <Compile Include="Classes\Utils\ImageExtensions.cs" />
     <Compile Include="Classes\Utils\JsonHelper.cs" />
@@ -85,7 +86,12 @@
     <Compile Include="Classes\Utils\VZ_AppHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\VRZone.Log\VRZone.Log.csproj">
+      <Project>{b84366c4-8734-464d-a10f-09b014395978}</Project>
+      <Name>VRZone.Log</Name>
+    </ProjectReference>
+  </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
