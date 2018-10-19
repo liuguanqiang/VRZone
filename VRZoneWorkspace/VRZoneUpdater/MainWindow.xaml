@@ -1,0 +1,27 @@
+﻿<Window x:Class="VRZoneUpdater.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VRZoneUpdater"
+        mc:Ignorable="d"
+        Title="更新文件生成器" MinHeight="768" MinWidth="1024">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Orientation="Horizontal">
+            <Button Name="bt_select_dir" Content="选择文件夹" Width="100" Click="bt_select_dir_Click"/>
+            <TextBlock Name="tb_dir" Margin="20,0,0,0" VerticalAlignment="Center" Text="目录路径" Width="400"/>
+            <Button Name="bt_run" Content="生成列表文件" IsEnabled="False" Margin="20,0,0,0" Click="bt_run_Click"/>
+            <Button Name="bt_save" Content="保存json" IsEnabled="False" Margin="10,0,0,0" Click="bt_save_Click"/>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Orientation="Horizontal">
+            <TextBlock Text="OSS目录" VerticalAlignment="Center" Margin="10"/>
+            <TextBox Margin="10" Name="tb_oss_root" MinWidth="400" Text="http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/" VerticalAlignment="Center"/>
+        </StackPanel>
+        <TextBox Name="tb_info" Grid.Row="2" IsReadOnly="True" MaxLines="256000"/>
+    </Grid>
+</Window>
