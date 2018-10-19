@@ -1,0 +1,2030 @@
+[
+    {
+        "md5": "a1b84e1d85ef46e744e0a492c73cefa1",
+        "path": "MahApps.Metro.dll",
+        "name": "MahApps.Metro.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/MahApps.Metro.dll"
+    },
+    {
+        "md5": "be1f7f03b954a19b8f6e13a43d45db56",
+        "path": "MahApps.Metro.pdb",
+        "name": "MahApps.Metro.pdb",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/MahApps.Metro.pdb"
+    },
+    {
+        "md5": "dac4508f155c154ed4bcf76d9aeed8ee",
+        "path": "MahApps.Metro.xml",
+        "name": "MahApps.Metro.xml",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/MahApps.Metro.xml"
+    },
+    {
+        "md5": "bb48c1d2b207f021085a4566a9bc3715",
+        "path": "Meta.Vlc.dll",
+        "name": "Meta.Vlc.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/Meta.Vlc.dll"
+    },
+    {
+        "md5": "8e7ba77d365ff4e870c941b776a50da7",
+        "path": "Meta.Vlc.Wpf.dll",
+        "name": "Meta.Vlc.Wpf.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/Meta.Vlc.Wpf.dll"
+    },
+    {
+        "md5": "8dc12b576a0c3a13d9d5ae35ebd6901d",
+        "path": "Meta.Vlc.Wpf.xml",
+        "name": "Meta.Vlc.Wpf.xml",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/Meta.Vlc.Wpf.xml"
+    },
+    {
+        "md5": "eeea2f8fa6780c90d82df43bef291571",
+        "path": "Meta.Vlc.xml",
+        "name": "Meta.Vlc.xml",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/Meta.Vlc.xml"
+    },
+    {
+        "md5": "2b770cea3a15c2b0eb36e9061ac5bc64",
+        "path": "Newtonsoft.Json.dll",
+        "name": "Newtonsoft.Json.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/Newtonsoft.Json.dll"
+    },
+    {
+        "md5": "580244bc805220253a87196913eb3e5e",
+        "path": "System.Windows.Interactivity.dll",
+        "name": "System.Windows.Interactivity.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/System.Windows.Interactivity.dll"
+    },
+    {
+        "md5": "03fbd36e49d85aed710f32d2fc359a21",
+        "path": "VRZoneCenter.exe",
+        "name": "VRZoneCenter.exe",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/VRZoneCenter.exe"
+    },
+    {
+        "md5": "5582426116a174ad63e96d56f640a726",
+        "path": "VRZoneCenter.exe.config",
+        "name": "VRZoneCenter.exe.config",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/VRZoneCenter.exe.config"
+    },
+    {
+        "md5": "215650887561530f62452a28f6cef497",
+        "path": "VRZoneCenter.pdb",
+        "name": "VRZoneCenter.pdb",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/VRZoneCenter.pdb"
+    },
+    {
+        "md5": "5a968502b84a268ca84018f1a9f6bb59",
+        "path": "VRZoneCenter.vshost.exe",
+        "name": "VRZoneCenter.vshost.exe",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/VRZoneCenter.vshost.exe"
+    },
+    {
+        "md5": "5582426116a174ad63e96d56f640a726",
+        "path": "VRZoneCenter.vshost.exe.config",
+        "name": "VRZoneCenter.vshost.exe.config",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/VRZoneCenter.vshost.exe.config"
+    },
+    {
+        "md5": "b26df369647f1bfcbd13b28609922b04",
+        "path": "Datas\\app.json",
+        "name": "app.json",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/Datas/app.json"
+    },
+    {
+        "md5": "87eb0912d7db2fbb1b633472480dd225",
+        "path": "Datas\\ConfigInfo.json",
+        "name": "ConfigInfo.json",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/Datas/ConfigInfo.json"
+    },
+    {
+        "md5": "96c4d5c9854d0e8e3086db034059e144",
+        "path": "LibVlc\\libvlc.dll",
+        "name": "libvlc.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/libvlc.dll"
+    },
+    {
+        "md5": "2b00a3e81543dd617fb862be001574e1",
+        "path": "LibVlc\\libvlccore.dll",
+        "name": "libvlccore.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/libvlccore.dll"
+    },
+    {
+        "md5": "5118f90603298205521cbe2ba1adf52b",
+        "path": "LibVlc\\plugins\\plugins.dat",
+        "name": "plugins.dat",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/plugins.dat"
+    },
+    {
+        "md5": "30e38e6ac621fff471793a7b447ebc35",
+        "path": "LibVlc\\plugins\\access\\libaccess_bd_plugin.dll",
+        "name": "libaccess_bd_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/access/libaccess_bd_plugin.dll"
+    },
+    {
+        "md5": "36b20291dc43c4b767ad50bc8a459b37",
+        "path": "LibVlc\\plugins\\access\\libaccess_mms_plugin.dll",
+        "name": "libaccess_mms_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/access/libaccess_mms_plugin.dll"
+    },
+    {
+        "md5": "e62f6f20003fc1bc2a9ef3dfcd9f3493",
+        "path": "LibVlc\\plugins\\access\\libaccess_realrtsp_plugin.dll",
+        "name": "libaccess_realrtsp_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/access/libaccess_realrtsp_plugin.dll"
+    },
+    {
+        "md5": "a1bf16e595b0f56fc12325025f343341",
+        "path": "LibVlc\\plugins\\access\\libattachment_plugin.dll",
+        "name": "libattachment_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/access/libattachment_plugin.dll"
+    },
+    {
+        "md5": "28f7eca89c3e16fecb7a74d42786b58e",
+        "path": "LibVlc\\plugins\\access\\libbluray-j2se-0.7.0.jar",
+        "name": "libbluray-j2se-0.7.0.jar",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/access/libbluray-j2se-0.7.0.jar"
+    },
+    {
+        "md5": "038ed3c6a5343ecaab5505ad1aad7c06",
+        "path": "LibVlc\\plugins\\access\\libcdda_plugin.dll",
+        "name": "libcdda_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/access/libcdda_plugin.dll"
+    },
+    {
+        "md5": "c66b435b93d8780fa5ff6711eca1286a",
+        "path": "LibVlc\\plugins\\access\\libdshow_plugin.dll",
+        "name": "libdshow_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/access/libdshow_plugin.dll"
+    },
+    {
+        "md5": "3bbe3fdd20e28ee2eb56854ce57a4f61",
+        "path": "LibVlc\\plugins\\access\\libdtv_plugin.dll",
+        "name": "libdtv_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/access/libdtv_plugin.dll"
+    },
+    {
+        "md5": "281143d9ab0be8cc2903cdcaf0baa425",
+        "path": "LibVlc\\plugins\\access\\libdvdnav_plugin.dll",
+        "name": "libdvdnav_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/access/libdvdnav_plugin.dll"
+    },
+    {
+        "md5": "41256a1e7c6bf2ed5462bcf554dce0c6",
+        "path": "LibVlc\\plugins\\access\\libdvdread_plugin.dll",
+        "name": "libdvdread_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/access/libdvdread_plugin.dll"
+    },
+    {
+        "md5": "185e177ca2d2ad96b0160dfb9c84ba9e",
+        "path": "LibVlc\\plugins\\access\\libfilesystem_plugin.dll",
+        "name": "libfilesystem_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/access/libfilesystem_plugin.dll"
+    },
+    {
+        "md5": "fed5f76422c1a4353632be5b2f6a7bf0",
+        "path": "LibVlc\\plugins\\access\\libftp_plugin.dll",
+        "name": "libftp_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/access/libftp_plugin.dll"
+    },
+    {
+        "md5": "9657d7955b872bd87da6a74ddd6ff59e",
+        "path": "LibVlc\\plugins\\access\\libhttp_plugin.dll",
+        "name": "libhttp_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/access/libhttp_plugin.dll"
+    },
+    {
+        "md5": "e3a5d1e789ce7cb50a6094592fac1eb0",
+        "path": "LibVlc\\plugins\\access\\libidummy_plugin.dll",
+        "name": "libidummy_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/access/libidummy_plugin.dll"
+    },
+    {
+        "md5": "6800e7b555e109d73d54a47fd0d34e8d",
+        "path": "LibVlc\\plugins\\access\\libimem_plugin.dll",
+        "name": "libimem_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/access/libimem_plugin.dll"
+    },
+    {
+        "md5": "5d0cb254faf061ccc016cbcf0cb256f8",
+        "path": "LibVlc\\plugins\\access\\liblibbluray_plugin.dll",
+        "name": "liblibbluray_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/access/liblibbluray_plugin.dll"
+    },
+    {
+        "md5": "f239b2a0959b6bb5adc7bbf9a847dca2",
+        "path": "LibVlc\\plugins\\access\\liblive555_plugin.dll",
+        "name": "liblive555_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/access/liblive555_plugin.dll"
+    },
+    {
+        "md5": "15241796c252a53d7b5d2ff0d8d83712",
+        "path": "LibVlc\\plugins\\access\\librar_plugin.dll",
+        "name": "librar_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/access/librar_plugin.dll"
+    },
+    {
+        "md5": "09935ef1981f727f6329d7e2478729c2",
+        "path": "LibVlc\\plugins\\access\\librtp_plugin.dll",
+        "name": "librtp_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/access/librtp_plugin.dll"
+    },
+    {
+        "md5": "0d45407687d8f044b802297d07226ba4",
+        "path": "LibVlc\\plugins\\access\\libscreen_plugin.dll",
+        "name": "libscreen_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/access/libscreen_plugin.dll"
+    },
+    {
+        "md5": "22e56c359b5e256dd194600de3f2ca7e",
+        "path": "LibVlc\\plugins\\access\\libsdp_plugin.dll",
+        "name": "libsdp_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/access/libsdp_plugin.dll"
+    },
+    {
+        "md5": "c1d4e95ea43b2158308c149e41740168",
+        "path": "LibVlc\\plugins\\access\\libsftp_plugin.dll",
+        "name": "libsftp_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/access/libsftp_plugin.dll"
+    },
+    {
+        "md5": "cb7d61cdd01cc2f31a8c773cff80655d",
+        "path": "LibVlc\\plugins\\access\\libshm_plugin.dll",
+        "name": "libshm_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/access/libshm_plugin.dll"
+    },
+    {
+        "md5": "4988cdd9b410f9e487b75c0375d89ec3",
+        "path": "LibVlc\\plugins\\access\\libsmb_plugin.dll",
+        "name": "libsmb_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/access/libsmb_plugin.dll"
+    },
+    {
+        "md5": "8878918a8797068d587081d600efe7a7",
+        "path": "LibVlc\\plugins\\access\\libtcp_plugin.dll",
+        "name": "libtcp_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/access/libtcp_plugin.dll"
+    },
+    {
+        "md5": "9f5552511cf148a3f6872433a676c80a",
+        "path": "LibVlc\\plugins\\access\\libtimecode_plugin.dll",
+        "name": "libtimecode_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/access/libtimecode_plugin.dll"
+    },
+    {
+        "md5": "07c292abf60e555403a01941212aa0eb",
+        "path": "LibVlc\\plugins\\access\\libudp_plugin.dll",
+        "name": "libudp_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/access/libudp_plugin.dll"
+    },
+    {
+        "md5": "5fc27fb8c3b4166de78f60c9d01368b2",
+        "path": "LibVlc\\plugins\\access\\libvcd_plugin.dll",
+        "name": "libvcd_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/access/libvcd_plugin.dll"
+    },
+    {
+        "md5": "6fc33a8b979d2c7572950c7fef61ebb4",
+        "path": "LibVlc\\plugins\\access\\libvdr_plugin.dll",
+        "name": "libvdr_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/access/libvdr_plugin.dll"
+    },
+    {
+        "md5": "fb3ea688caf54cd2519b48969c999340",
+        "path": "LibVlc\\plugins\\access\\libzip_plugin.dll",
+        "name": "libzip_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/access/libzip_plugin.dll"
+    },
+    {
+        "md5": "ded8f43c6da9d8de77878fd03d8a20ad",
+        "path": "LibVlc\\plugins\\access_output\\libaccess_output_dummy_plugin.dll",
+        "name": "libaccess_output_dummy_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/access_output/libaccess_output_dummy_plugin.dll"
+    },
+    {
+        "md5": "3252527877515a17e3eeef43c06fc245",
+        "path": "LibVlc\\plugins\\access_output\\libaccess_output_file_plugin.dll",
+        "name": "libaccess_output_file_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/access_output/libaccess_output_file_plugin.dll"
+    },
+    {
+        "md5": "7acf76df7a68a83972515759572b30ec",
+        "path": "LibVlc\\plugins\\access_output\\libaccess_output_http_plugin.dll",
+        "name": "libaccess_output_http_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/access_output/libaccess_output_http_plugin.dll"
+    },
+    {
+        "md5": "c96769899b2a41cd429931939bc1c428",
+        "path": "LibVlc\\plugins\\access_output\\libaccess_output_livehttp_plugin.dll",
+        "name": "libaccess_output_livehttp_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/access_output/libaccess_output_livehttp_plugin.dll"
+    },
+    {
+        "md5": "ae76aa5f0484c126b73b2a4400a1aa9a",
+        "path": "LibVlc\\plugins\\access_output\\libaccess_output_shout_plugin.dll",
+        "name": "libaccess_output_shout_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/access_output/libaccess_output_shout_plugin.dll"
+    },
+    {
+        "md5": "e1ff94e0d699156724df23a1a4790f95",
+        "path": "LibVlc\\plugins\\access_output\\libaccess_output_udp_plugin.dll",
+        "name": "libaccess_output_udp_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/access_output/libaccess_output_udp_plugin.dll"
+    },
+    {
+        "md5": "5a35048d41611f15018055b15a8ffa83",
+        "path": "LibVlc\\plugins\\audio_filter\\liba52tofloat32_plugin.dll",
+        "name": "liba52tofloat32_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/audio_filter/liba52tofloat32_plugin.dll"
+    },
+    {
+        "md5": "eb022ec815bed08087b738c04533e74b",
+        "path": "LibVlc\\plugins\\audio_filter\\liba52tospdif_plugin.dll",
+        "name": "liba52tospdif_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/audio_filter/liba52tospdif_plugin.dll"
+    },
+    {
+        "md5": "b2c1b3183d7a8fa065a950840bbb62ea",
+        "path": "LibVlc\\plugins\\audio_filter\\libaudiobargraph_a_plugin.dll",
+        "name": "libaudiobargraph_a_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/audio_filter/libaudiobargraph_a_plugin.dll"
+    },
+    {
+        "md5": "279f13b8947d633aa6347db530998a84",
+        "path": "LibVlc\\plugins\\audio_filter\\libaudio_format_plugin.dll",
+        "name": "libaudio_format_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/audio_filter/libaudio_format_plugin.dll"
+    },
+    {
+        "md5": "4cb90f7e6e43796c61edff8852ccb89a",
+        "path": "LibVlc\\plugins\\audio_filter\\libchorus_flanger_plugin.dll",
+        "name": "libchorus_flanger_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/audio_filter/libchorus_flanger_plugin.dll"
+    },
+    {
+        "md5": "ee89f90eb2d70215a352be4f5dd7366d",
+        "path": "LibVlc\\plugins\\audio_filter\\libcompressor_plugin.dll",
+        "name": "libcompressor_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/audio_filter/libcompressor_plugin.dll"
+    },
+    {
+        "md5": "a1277013b1b4b20ff095a08d451a7410",
+        "path": "LibVlc\\plugins\\audio_filter\\libdolby_surround_decoder_plugin.dll",
+        "name": "libdolby_surround_decoder_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/audio_filter/libdolby_surround_decoder_plugin.dll"
+    },
+    {
+        "md5": "c6da57b753e237510eb1515788e9bd7e",
+        "path": "LibVlc\\plugins\\audio_filter\\libdtstofloat32_plugin.dll",
+        "name": "libdtstofloat32_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/audio_filter/libdtstofloat32_plugin.dll"
+    },
+    {
+        "md5": "ab09e180aa50cf225f40d116aff163dc",
+        "path": "LibVlc\\plugins\\audio_filter\\libdtstospdif_plugin.dll",
+        "name": "libdtstospdif_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/audio_filter/libdtstospdif_plugin.dll"
+    },
+    {
+        "md5": "d619afdcbd8deca59f84d27a23f2062d",
+        "path": "LibVlc\\plugins\\audio_filter\\libequalizer_plugin.dll",
+        "name": "libequalizer_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/audio_filter/libequalizer_plugin.dll"
+    },
+    {
+        "md5": "12d3db58a9900c62c9ca818d3ccbcecb",
+        "path": "LibVlc\\plugins\\audio_filter\\libgain_plugin.dll",
+        "name": "libgain_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/audio_filter/libgain_plugin.dll"
+    },
+    {
+        "md5": "0857afb024596e68820c96fe00b71f5a",
+        "path": "LibVlc\\plugins\\audio_filter\\libheadphone_channel_mixer_plugin.dll",
+        "name": "libheadphone_channel_mixer_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/audio_filter/libheadphone_channel_mixer_plugin.dll"
+    },
+    {
+        "md5": "545bb98eef41e55338798efc0f00af31",
+        "path": "LibVlc\\plugins\\audio_filter\\libkaraoke_plugin.dll",
+        "name": "libkaraoke_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/audio_filter/libkaraoke_plugin.dll"
+    },
+    {
+        "md5": "3443a8d734e016da6334a6356d1c9636",
+        "path": "LibVlc\\plugins\\audio_filter\\libmono_plugin.dll",
+        "name": "libmono_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/audio_filter/libmono_plugin.dll"
+    },
+    {
+        "md5": "64c0a02e67acd3c0214b5f2eccb885ed",
+        "path": "LibVlc\\plugins\\audio_filter\\libmpgatofixed32_plugin.dll",
+        "name": "libmpgatofixed32_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/audio_filter/libmpgatofixed32_plugin.dll"
+    },
+    {
+        "md5": "55d779420afac9687e2faef0182e866f",
+        "path": "LibVlc\\plugins\\audio_filter\\libnormvol_plugin.dll",
+        "name": "libnormvol_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/audio_filter/libnormvol_plugin.dll"
+    },
+    {
+        "md5": "2c338e99fc4a81d6610871e4c56a09e5",
+        "path": "LibVlc\\plugins\\audio_filter\\libparam_eq_plugin.dll",
+        "name": "libparam_eq_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/audio_filter/libparam_eq_plugin.dll"
+    },
+    {
+        "md5": "1595ce0c2c65ceffedf7e46f1535efed",
+        "path": "LibVlc\\plugins\\audio_filter\\libremap_plugin.dll",
+        "name": "libremap_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/audio_filter/libremap_plugin.dll"
+    },
+    {
+        "md5": "bf4e72a37962295e5117316e2d6a6b3d",
+        "path": "LibVlc\\plugins\\audio_filter\\libsamplerate_plugin.dll",
+        "name": "libsamplerate_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/audio_filter/libsamplerate_plugin.dll"
+    },
+    {
+        "md5": "849838a089fd699f6fc028731ad3663b",
+        "path": "LibVlc\\plugins\\audio_filter\\libscaletempo_plugin.dll",
+        "name": "libscaletempo_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/audio_filter/libscaletempo_plugin.dll"
+    },
+    {
+        "md5": "5604fca0a6056adeee8fdfefaec8fc6a",
+        "path": "LibVlc\\plugins\\audio_filter\\libsimple_channel_mixer_plugin.dll",
+        "name": "libsimple_channel_mixer_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/audio_filter/libsimple_channel_mixer_plugin.dll"
+    },
+    {
+        "md5": "2adeace5170dddc830cd78ae4ceb6067",
+        "path": "LibVlc\\plugins\\audio_filter\\libspatializer_plugin.dll",
+        "name": "libspatializer_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/audio_filter/libspatializer_plugin.dll"
+    },
+    {
+        "md5": "f60fd8e571e7c55b05f560543fd7b7e1",
+        "path": "LibVlc\\plugins\\audio_filter\\libspeex_resampler_plugin.dll",
+        "name": "libspeex_resampler_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/audio_filter/libspeex_resampler_plugin.dll"
+    },
+    {
+        "md5": "31a3d72809b4bae018319ccf7b85a7fe",
+        "path": "LibVlc\\plugins\\audio_filter\\libstereo_widen_plugin.dll",
+        "name": "libstereo_widen_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/audio_filter/libstereo_widen_plugin.dll"
+    },
+    {
+        "md5": "04de528863aaefef45e3aeaa6235fdf4",
+        "path": "LibVlc\\plugins\\audio_filter\\libtrivial_channel_mixer_plugin.dll",
+        "name": "libtrivial_channel_mixer_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/audio_filter/libtrivial_channel_mixer_plugin.dll"
+    },
+    {
+        "md5": "03ca37e997b7c57328d34b69483a0ded",
+        "path": "LibVlc\\plugins\\audio_filter\\libugly_resampler_plugin.dll",
+        "name": "libugly_resampler_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/audio_filter/libugly_resampler_plugin.dll"
+    },
+    {
+        "md5": "bf832948d585d0de465c891de6580874",
+        "path": "LibVlc\\plugins\\audio_mixer\\libfloat_mixer_plugin.dll",
+        "name": "libfloat_mixer_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/audio_mixer/libfloat_mixer_plugin.dll"
+    },
+    {
+        "md5": "72a91be338b29234303addffe2e86046",
+        "path": "LibVlc\\plugins\\audio_mixer\\libinteger_mixer_plugin.dll",
+        "name": "libinteger_mixer_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/audio_mixer/libinteger_mixer_plugin.dll"
+    },
+    {
+        "md5": "c631f8de82453e1d84b32d2e0586aafe",
+        "path": "LibVlc\\plugins\\audio_output\\libadummy_plugin.dll",
+        "name": "libadummy_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/audio_output/libadummy_plugin.dll"
+    },
+    {
+        "md5": "69a301f4e4ae9cdbc460a0b7519849cb",
+        "path": "LibVlc\\plugins\\audio_output\\libafile_plugin.dll",
+        "name": "libafile_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/audio_output/libafile_plugin.dll"
+    },
+    {
+        "md5": "9dc56c3eec4e4f0a1602c8c8c8c08ddd",
+        "path": "LibVlc\\plugins\\audio_output\\libamem_plugin.dll",
+        "name": "libamem_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/audio_output/libamem_plugin.dll"
+    },
+    {
+        "md5": "5e6c3cc5fcf92381b57e6ffb14de0dc3",
+        "path": "LibVlc\\plugins\\audio_output\\libdirectsound_plugin.dll",
+        "name": "libdirectsound_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/audio_output/libdirectsound_plugin.dll"
+    },
+    {
+        "md5": "f8bac96a53850ee75956fc5825c17224",
+        "path": "LibVlc\\plugins\\audio_output\\libmmdevice_plugin.dll",
+        "name": "libmmdevice_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/audio_output/libmmdevice_plugin.dll"
+    },
+    {
+        "md5": "62cf764a83b8e83c57bf6bff35a583b8",
+        "path": "LibVlc\\plugins\\audio_output\\libwasapi_plugin.dll",
+        "name": "libwasapi_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/audio_output/libwasapi_plugin.dll"
+    },
+    {
+        "md5": "557376a4f487b793f9591425e3ec5e66",
+        "path": "LibVlc\\plugins\\audio_output\\libwaveout_plugin.dll",
+        "name": "libwaveout_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/audio_output/libwaveout_plugin.dll"
+    },
+    {
+        "md5": "78fc9aec94390a9126687a9432d9bee9",
+        "path": "LibVlc\\plugins\\codec\\liba52_plugin.dll",
+        "name": "liba52_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/liba52_plugin.dll"
+    },
+    {
+        "md5": "d0eb798598a1a7daab5b85d36938aab5",
+        "path": "LibVlc\\plugins\\codec\\libadpcm_plugin.dll",
+        "name": "libadpcm_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libadpcm_plugin.dll"
+    },
+    {
+        "md5": "7f3dcd1e61b9fb7e2b7d28e0f2560ae4",
+        "path": "LibVlc\\plugins\\codec\\libaes3_plugin.dll",
+        "name": "libaes3_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libaes3_plugin.dll"
+    },
+    {
+        "md5": "478d5e7194a0792a8564770655a7ea22",
+        "path": "LibVlc\\plugins\\codec\\libaraw_plugin.dll",
+        "name": "libaraw_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libaraw_plugin.dll"
+    },
+    {
+        "md5": "1be4785406bdcdbd48b21063ec1e8752",
+        "path": "LibVlc\\plugins\\codec\\libavcodec_plugin.dll",
+        "name": "libavcodec_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libavcodec_plugin.dll"
+    },
+    {
+        "md5": "969548fe45c9ffc20e59dc78df0f7a22",
+        "path": "LibVlc\\plugins\\codec\\libcc_plugin.dll",
+        "name": "libcc_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libcc_plugin.dll"
+    },
+    {
+        "md5": "634755326e732293550e074ce7477286",
+        "path": "LibVlc\\plugins\\codec\\libcdg_plugin.dll",
+        "name": "libcdg_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libcdg_plugin.dll"
+    },
+    {
+        "md5": "2fa1905cc2a834ce403a93560cefaa7c",
+        "path": "LibVlc\\plugins\\codec\\libcrystalhd_plugin.dll",
+        "name": "libcrystalhd_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libcrystalhd_plugin.dll"
+    },
+    {
+        "md5": "a9fa10408e6c038e4643d07d34f0ae02",
+        "path": "LibVlc\\plugins\\codec\\libcvdsub_plugin.dll",
+        "name": "libcvdsub_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libcvdsub_plugin.dll"
+    },
+    {
+        "md5": "eeacf0e006987d7d96e25e7258a44017",
+        "path": "LibVlc\\plugins\\codec\\libddummy_plugin.dll",
+        "name": "libddummy_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libddummy_plugin.dll"
+    },
+    {
+        "md5": "cc29970da12e8422d881e363afc4fced",
+        "path": "LibVlc\\plugins\\codec\\libdmo_plugin.dll",
+        "name": "libdmo_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libdmo_plugin.dll"
+    },
+    {
+        "md5": "d516cff265c82c99be66c127ab3a3bf5",
+        "path": "LibVlc\\plugins\\codec\\libdts_plugin.dll",
+        "name": "libdts_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libdts_plugin.dll"
+    },
+    {
+        "md5": "e76701bce7b6325e49d8c15f35d2eaf5",
+        "path": "LibVlc\\plugins\\codec\\libdvbsub_plugin.dll",
+        "name": "libdvbsub_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libdvbsub_plugin.dll"
+    },
+    {
+        "md5": "66a8b19223fac77372b7c6b42c6c8ed8",
+        "path": "LibVlc\\plugins\\codec\\libdxva2_plugin.dll",
+        "name": "libdxva2_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libdxva2_plugin.dll"
+    },
+    {
+        "md5": "c623b6ab25e7f7e739d75531278269bc",
+        "path": "LibVlc\\plugins\\codec\\libedummy_plugin.dll",
+        "name": "libedummy_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libedummy_plugin.dll"
+    },
+    {
+        "md5": "dfc452c4e589ce6cca61056679a87018",
+        "path": "LibVlc\\plugins\\codec\\libfaad_plugin.dll",
+        "name": "libfaad_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libfaad_plugin.dll"
+    },
+    {
+        "md5": "a2753daa78189577fb0f38bde445c966",
+        "path": "LibVlc\\plugins\\codec\\libflac_plugin.dll",
+        "name": "libflac_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libflac_plugin.dll"
+    },
+    {
+        "md5": "93bf7d5286cf773e8878b7471ec89ccf",
+        "path": "LibVlc\\plugins\\codec\\libg711_plugin.dll",
+        "name": "libg711_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libg711_plugin.dll"
+    },
+    {
+        "md5": "b9fa0f470b64e9886a05f5a91c176426",
+        "path": "LibVlc\\plugins\\codec\\libjpeg_plugin.dll",
+        "name": "libjpeg_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libjpeg_plugin.dll"
+    },
+    {
+        "md5": "03eedef45c05387d27c9e64d2b7ae7dc",
+        "path": "LibVlc\\plugins\\codec\\libkate_plugin.dll",
+        "name": "libkate_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libkate_plugin.dll"
+    },
+    {
+        "md5": "fa9385448e305fcdb7c6a4d67c5303eb",
+        "path": "LibVlc\\plugins\\codec\\liblibass_plugin.dll",
+        "name": "liblibass_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/liblibass_plugin.dll"
+    },
+    {
+        "md5": "e13ad04d1ea7de07f931b7cac3256be0",
+        "path": "LibVlc\\plugins\\codec\\liblibmpeg2_plugin.dll",
+        "name": "liblibmpeg2_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/liblibmpeg2_plugin.dll"
+    },
+    {
+        "md5": "9d8167792ca3d8736e1f7a76ffc3eb89",
+        "path": "LibVlc\\plugins\\codec\\liblpcm_plugin.dll",
+        "name": "liblpcm_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/liblpcm_plugin.dll"
+    },
+    {
+        "md5": "dcf667691423fcff3861fdb6315b6909",
+        "path": "LibVlc\\plugins\\codec\\libmft_plugin.dll",
+        "name": "libmft_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libmft_plugin.dll"
+    },
+    {
+        "md5": "5982d43ce0a46d2b728cde7f04a8cf65",
+        "path": "LibVlc\\plugins\\codec\\libmpeg_audio_plugin.dll",
+        "name": "libmpeg_audio_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libmpeg_audio_plugin.dll"
+    },
+    {
+        "md5": "a86f4b24135db576925549e8af0ae4da",
+        "path": "LibVlc\\plugins\\codec\\libopus_plugin.dll",
+        "name": "libopus_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libopus_plugin.dll"
+    },
+    {
+        "md5": "1a89fc22e8a774024cc24c08d328ea6d",
+        "path": "LibVlc\\plugins\\codec\\libpng_plugin.dll",
+        "name": "libpng_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libpng_plugin.dll"
+    },
+    {
+        "md5": "33e832c07919fcac435fd7d62db06623",
+        "path": "LibVlc\\plugins\\codec\\libqsv_plugin.dll",
+        "name": "libqsv_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libqsv_plugin.dll"
+    },
+    {
+        "md5": "fe694a2f23d813d599da21856e46781f",
+        "path": "LibVlc\\plugins\\codec\\libquicktime_plugin.dll",
+        "name": "libquicktime_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libquicktime_plugin.dll"
+    },
+    {
+        "md5": "63564285e58c08992d8c37550e9b310a",
+        "path": "LibVlc\\plugins\\codec\\librawvideo_plugin.dll",
+        "name": "librawvideo_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/librawvideo_plugin.dll"
+    },
+    {
+        "md5": "c32040420038eeb2b753576406ccc194",
+        "path": "LibVlc\\plugins\\codec\\libschroedinger_plugin.dll",
+        "name": "libschroedinger_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libschroedinger_plugin.dll"
+    },
+    {
+        "md5": "3616b43da53e34458050a40d4f6955ef",
+        "path": "LibVlc\\plugins\\codec\\libscte27_plugin.dll",
+        "name": "libscte27_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libscte27_plugin.dll"
+    },
+    {
+        "md5": "a8b51e3a72f050ac676211a50d7c6236",
+        "path": "LibVlc\\plugins\\codec\\libspeex_plugin.dll",
+        "name": "libspeex_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libspeex_plugin.dll"
+    },
+    {
+        "md5": "0d45f5d31f3d25462372756ccb526c12",
+        "path": "LibVlc\\plugins\\codec\\libspudec_plugin.dll",
+        "name": "libspudec_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libspudec_plugin.dll"
+    },
+    {
+        "md5": "ab0cc1e09ca07f208dbe711902adcc0a",
+        "path": "LibVlc\\plugins\\codec\\libstl_plugin.dll",
+        "name": "libstl_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libstl_plugin.dll"
+    },
+    {
+        "md5": "b048dcbcc6970b7ed651788fb9efcd5e",
+        "path": "LibVlc\\plugins\\codec\\libsubsdec_plugin.dll",
+        "name": "libsubsdec_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libsubsdec_plugin.dll"
+    },
+    {
+        "md5": "d618da03639ad0e96e01e16f39a6d2f2",
+        "path": "LibVlc\\plugins\\codec\\libsubstx3g_plugin.dll",
+        "name": "libsubstx3g_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libsubstx3g_plugin.dll"
+    },
+    {
+        "md5": "6bb9e3a4f9ad2e5d0036c0faf708218b",
+        "path": "LibVlc\\plugins\\codec\\libsubsusf_plugin.dll",
+        "name": "libsubsusf_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libsubsusf_plugin.dll"
+    },
+    {
+        "md5": "2f3c7b6a6a4d8d5105385003c069a88f",
+        "path": "LibVlc\\plugins\\codec\\libsvcdsub_plugin.dll",
+        "name": "libsvcdsub_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libsvcdsub_plugin.dll"
+    },
+    {
+        "md5": "9f6cd9cb0c2f776bbb775a736f2d16bc",
+        "path": "LibVlc\\plugins\\codec\\libt140_plugin.dll",
+        "name": "libt140_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libt140_plugin.dll"
+    },
+    {
+        "md5": "827bc38d6061281d6d230444509fbf05",
+        "path": "LibVlc\\plugins\\codec\\libtheora_plugin.dll",
+        "name": "libtheora_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libtheora_plugin.dll"
+    },
+    {
+        "md5": "0a6f11adde1e59fc22e8e80fe671dedd",
+        "path": "LibVlc\\plugins\\codec\\libtwolame_plugin.dll",
+        "name": "libtwolame_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libtwolame_plugin.dll"
+    },
+    {
+        "md5": "a255a70a0c9053a367a1e638f961ad34",
+        "path": "LibVlc\\plugins\\codec\\libuleaddvaudio_plugin.dll",
+        "name": "libuleaddvaudio_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libuleaddvaudio_plugin.dll"
+    },
+    {
+        "md5": "65bcce499da457fcf1d284b679e9f634",
+        "path": "LibVlc\\plugins\\codec\\libvorbis_plugin.dll",
+        "name": "libvorbis_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libvorbis_plugin.dll"
+    },
+    {
+        "md5": "15bf486fe4860ddaa772e551f011991c",
+        "path": "LibVlc\\plugins\\codec\\libvpx_plugin.dll",
+        "name": "libvpx_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libvpx_plugin.dll"
+    },
+    {
+        "md5": "e96e60ff4e0a34a3f832c48d33b8c6b7",
+        "path": "LibVlc\\plugins\\codec\\libx264_plugin.dll",
+        "name": "libx264_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libx264_plugin.dll"
+    },
+    {
+        "md5": "c955f5fe7f753667cc1053adcae220d9",
+        "path": "LibVlc\\plugins\\codec\\libx265_plugin.dll",
+        "name": "libx265_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libx265_plugin.dll"
+    },
+    {
+        "md5": "5e1215aa2535cbf606d78981717eca66",
+        "path": "LibVlc\\plugins\\codec\\libzvbi_plugin.dll",
+        "name": "libzvbi_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/codec/libzvbi_plugin.dll"
+    },
+    {
+        "md5": "32728a0550ab6dea7796554f08e8efa9",
+        "path": "LibVlc\\plugins\\control\\libdummy_plugin.dll",
+        "name": "libdummy_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/control/libdummy_plugin.dll"
+    },
+    {
+        "md5": "3e795fd8cbc38a593aa82bfd7edd83c3",
+        "path": "LibVlc\\plugins\\control\\libgestures_plugin.dll",
+        "name": "libgestures_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/control/libgestures_plugin.dll"
+    },
+    {
+        "md5": "8fc1a4ef2a6711e45d7a36194957e0b3",
+        "path": "LibVlc\\plugins\\control\\libhotkeys_plugin.dll",
+        "name": "libhotkeys_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/control/libhotkeys_plugin.dll"
+    },
+    {
+        "md5": "84bcdbb32badd4cc049217468dd2f061",
+        "path": "LibVlc\\plugins\\control\\libnetsync_plugin.dll",
+        "name": "libnetsync_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/control/libnetsync_plugin.dll"
+    },
+    {
+        "md5": "a7cf707c30bd5a22b4dafba64c1ef17e",
+        "path": "LibVlc\\plugins\\control\\libntservice_plugin.dll",
+        "name": "libntservice_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/control/libntservice_plugin.dll"
+    },
+    {
+        "md5": "04b8565d23bbe8660f64761f065f6daa",
+        "path": "LibVlc\\plugins\\control\\liboldrc_plugin.dll",
+        "name": "liboldrc_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/control/liboldrc_plugin.dll"
+    },
+    {
+        "md5": "8c8af774bc171ec0238cc199071f8f7f",
+        "path": "LibVlc\\plugins\\control\\libwin_hotkeys_plugin.dll",
+        "name": "libwin_hotkeys_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/control/libwin_hotkeys_plugin.dll"
+    },
+    {
+        "md5": "f99c75392a41d87d5935d9fd9d30677d",
+        "path": "LibVlc\\plugins\\control\\libwin_msg_plugin.dll",
+        "name": "libwin_msg_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/control/libwin_msg_plugin.dll"
+    },
+    {
+        "md5": "a440c70863753bf2767ccb671bc17579",
+        "path": "LibVlc\\plugins\\demux\\libaiff_plugin.dll",
+        "name": "libaiff_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/libaiff_plugin.dll"
+    },
+    {
+        "md5": "d917c1cb16d8f1efe4f11c6e47f02a4b",
+        "path": "LibVlc\\plugins\\demux\\libasf_plugin.dll",
+        "name": "libasf_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/libasf_plugin.dll"
+    },
+    {
+        "md5": "00c6886a9da0db30d42211a1d325bfb5",
+        "path": "LibVlc\\plugins\\demux\\libau_plugin.dll",
+        "name": "libau_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/libau_plugin.dll"
+    },
+    {
+        "md5": "dc404f53e781e4f865a67d79a8ba4aa3",
+        "path": "LibVlc\\plugins\\demux\\libavi_plugin.dll",
+        "name": "libavi_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/libavi_plugin.dll"
+    },
+    {
+        "md5": "aead7b067ce039ea5abf7c8f4a008571",
+        "path": "LibVlc\\plugins\\demux\\libcaf_plugin.dll",
+        "name": "libcaf_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/libcaf_plugin.dll"
+    },
+    {
+        "md5": "1df820ddbbf5c7dd05afea6879054df0",
+        "path": "LibVlc\\plugins\\demux\\libdemuxdump_plugin.dll",
+        "name": "libdemuxdump_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/libdemuxdump_plugin.dll"
+    },
+    {
+        "md5": "0c82e461e18d70b0b5d99da7bb0780ec",
+        "path": "LibVlc\\plugins\\demux\\libdemux_cdg_plugin.dll",
+        "name": "libdemux_cdg_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/libdemux_cdg_plugin.dll"
+    },
+    {
+        "md5": "51b154bbafd6a53b365ea9b85c871566",
+        "path": "LibVlc\\plugins\\demux\\libdemux_stl_plugin.dll",
+        "name": "libdemux_stl_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/libdemux_stl_plugin.dll"
+    },
+    {
+        "md5": "a22420e2ac78b42d7d8c030ac62dd699",
+        "path": "LibVlc\\plugins\\demux\\libdiracsys_plugin.dll",
+        "name": "libdiracsys_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/libdiracsys_plugin.dll"
+    },
+    {
+        "md5": "c1a381984bfb509d743797e3b25dd4bc",
+        "path": "LibVlc\\plugins\\demux\\libes_plugin.dll",
+        "name": "libes_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/libes_plugin.dll"
+    },
+    {
+        "md5": "ebe90b205f881e1ab69a0d987d63dc0a",
+        "path": "LibVlc\\plugins\\demux\\libflacsys_plugin.dll",
+        "name": "libflacsys_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/libflacsys_plugin.dll"
+    },
+    {
+        "md5": "9475c0b13a991d25f514194840137896",
+        "path": "LibVlc\\plugins\\demux\\libgme_plugin.dll",
+        "name": "libgme_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/libgme_plugin.dll"
+    },
+    {
+        "md5": "fa88a2a922e01adbf20a002c2ed6adb0",
+        "path": "LibVlc\\plugins\\demux\\libh264_plugin.dll",
+        "name": "libh264_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/libh264_plugin.dll"
+    },
+    {
+        "md5": "52e490c5cfc113b98d9c55fa3937759e",
+        "path": "LibVlc\\plugins\\demux\\libhevc_plugin.dll",
+        "name": "libhevc_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/libhevc_plugin.dll"
+    },
+    {
+        "md5": "0f86a0487e31c91172141e7bfa4462fd",
+        "path": "LibVlc\\plugins\\demux\\libimage_plugin.dll",
+        "name": "libimage_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/libimage_plugin.dll"
+    },
+    {
+        "md5": "d97633bc44048685b189cc0819582f98",
+        "path": "LibVlc\\plugins\\demux\\libmjpeg_plugin.dll",
+        "name": "libmjpeg_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/libmjpeg_plugin.dll"
+    },
+    {
+        "md5": "809034fe9cb87b86324788e77174b299",
+        "path": "LibVlc\\plugins\\demux\\libmkv_plugin.dll",
+        "name": "libmkv_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/libmkv_plugin.dll"
+    },
+    {
+        "md5": "3701fe766689d0a0d2297df9cab51d0b",
+        "path": "LibVlc\\plugins\\demux\\libmod_plugin.dll",
+        "name": "libmod_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/libmod_plugin.dll"
+    },
+    {
+        "md5": "99b82d26b5dc47fbd9a2dbec676b8e2a",
+        "path": "LibVlc\\plugins\\demux\\libmp4_plugin.dll",
+        "name": "libmp4_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/libmp4_plugin.dll"
+    },
+    {
+        "md5": "a8a65fe6ee5b72b1f02b3ccbd35d0005",
+        "path": "LibVlc\\plugins\\demux\\libmpc_plugin.dll",
+        "name": "libmpc_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/libmpc_plugin.dll"
+    },
+    {
+        "md5": "c4706d2b17440b9307a411f3d3589dbe",
+        "path": "LibVlc\\plugins\\demux\\libmpgv_plugin.dll",
+        "name": "libmpgv_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/libmpgv_plugin.dll"
+    },
+    {
+        "md5": "9a4a9f301a42392f83fc615ced9154e9",
+        "path": "LibVlc\\plugins\\demux\\libnsc_plugin.dll",
+        "name": "libnsc_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/libnsc_plugin.dll"
+    },
+    {
+        "md5": "d716664e1cd267d65d6b86abb3f67062",
+        "path": "LibVlc\\plugins\\demux\\libnsv_plugin.dll",
+        "name": "libnsv_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/libnsv_plugin.dll"
+    },
+    {
+        "md5": "2853c0ec0770b71b426d91c9aa7cadaa",
+        "path": "LibVlc\\plugins\\demux\\libnuv_plugin.dll",
+        "name": "libnuv_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/libnuv_plugin.dll"
+    },
+    {
+        "md5": "cccacbbd22a1ab2c661af34003a3c7a6",
+        "path": "LibVlc\\plugins\\demux\\libogg_plugin.dll",
+        "name": "libogg_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/libogg_plugin.dll"
+    },
+    {
+        "md5": "7ae201edbbd10f2d4a25bd455a00b9ac",
+        "path": "LibVlc\\plugins\\demux\\libplaylist_plugin.dll",
+        "name": "libplaylist_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/libplaylist_plugin.dll"
+    },
+    {
+        "md5": "b5a9aa7da95b153ca7d318541a33a0fd",
+        "path": "LibVlc\\plugins\\demux\\libps_plugin.dll",
+        "name": "libps_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/libps_plugin.dll"
+    },
+    {
+        "md5": "62e8cfb09a6268195c2380a0d95cbf9b",
+        "path": "LibVlc\\plugins\\demux\\libpva_plugin.dll",
+        "name": "libpva_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/libpva_plugin.dll"
+    },
+    {
+        "md5": "44c7f9d4c38e97b07d6b0a210a9d32e6",
+        "path": "LibVlc\\plugins\\demux\\librawaud_plugin.dll",
+        "name": "librawaud_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/librawaud_plugin.dll"
+    },
+    {
+        "md5": "c9f9f3f42836d1f22ecb5010d0dda25b",
+        "path": "LibVlc\\plugins\\demux\\librawdv_plugin.dll",
+        "name": "librawdv_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/librawdv_plugin.dll"
+    },
+    {
+        "md5": "777a044d0cbda5bceaa6fc5da12e9e08",
+        "path": "LibVlc\\plugins\\demux\\librawvid_plugin.dll",
+        "name": "librawvid_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/librawvid_plugin.dll"
+    },
+    {
+        "md5": "d9324a37b2179f4c5766b70ee33b1921",
+        "path": "LibVlc\\plugins\\demux\\libreal_plugin.dll",
+        "name": "libreal_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/libreal_plugin.dll"
+    },
+    {
+        "md5": "5eb6fb6341f74cd6deb9bca88bdf9a50",
+        "path": "LibVlc\\plugins\\demux\\libsid_plugin.dll",
+        "name": "libsid_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/libsid_plugin.dll"
+    },
+    {
+        "md5": "250664519d8d98909b99c1f7af9b79af",
+        "path": "LibVlc\\plugins\\demux\\libsmf_plugin.dll",
+        "name": "libsmf_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/libsmf_plugin.dll"
+    },
+    {
+        "md5": "eb5d971118f4fc52c3b2d1a6b2a330bd",
+        "path": "LibVlc\\plugins\\demux\\libsubtitle_plugin.dll",
+        "name": "libsubtitle_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/libsubtitle_plugin.dll"
+    },
+    {
+        "md5": "36cf3120c68c2cf4bec58ef45552559c",
+        "path": "LibVlc\\plugins\\demux\\libts_plugin.dll",
+        "name": "libts_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/libts_plugin.dll"
+    },
+    {
+        "md5": "64b6509b7f9707c7caf9b428e7821c33",
+        "path": "LibVlc\\plugins\\demux\\libtta_plugin.dll",
+        "name": "libtta_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/libtta_plugin.dll"
+    },
+    {
+        "md5": "de3ba3390f25fcf336ba61c4046eab26",
+        "path": "LibVlc\\plugins\\demux\\libty_plugin.dll",
+        "name": "libty_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/libty_plugin.dll"
+    },
+    {
+        "md5": "07430fd6e2b6906c6e0a5081702f19e9",
+        "path": "LibVlc\\plugins\\demux\\libvc1_plugin.dll",
+        "name": "libvc1_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/libvc1_plugin.dll"
+    },
+    {
+        "md5": "779af07b8afd81e9e4891d54fb7f46e8",
+        "path": "LibVlc\\plugins\\demux\\libvobsub_plugin.dll",
+        "name": "libvobsub_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/libvobsub_plugin.dll"
+    },
+    {
+        "md5": "5de1378e82d1bd446373b6f2aaf71067",
+        "path": "LibVlc\\plugins\\demux\\libvoc_plugin.dll",
+        "name": "libvoc_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/libvoc_plugin.dll"
+    },
+    {
+        "md5": "18e96ed4004edfb1f7c5fad1011f40c0",
+        "path": "LibVlc\\plugins\\demux\\libwav_plugin.dll",
+        "name": "libwav_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/libwav_plugin.dll"
+    },
+    {
+        "md5": "cd9cee133b1646bc05f793796110bedf",
+        "path": "LibVlc\\plugins\\demux\\libxa_plugin.dll",
+        "name": "libxa_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/demux/libxa_plugin.dll"
+    },
+    {
+        "md5": "7b154a2c9d4a465f51cd1d5bb9e61db5",
+        "path": "LibVlc\\plugins\\gui\\libqt4_plugin.dll",
+        "name": "libqt4_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/gui/libqt4_plugin.dll"
+    },
+    {
+        "md5": "88f40b383df8e718551750f20e2a67b4",
+        "path": "LibVlc\\plugins\\gui\\libskins2_plugin.dll",
+        "name": "libskins2_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/gui/libskins2_plugin.dll"
+    },
+    {
+        "md5": "593cbec6880fea3a7f2abfd94969f07c",
+        "path": "LibVlc\\plugins\\lua\\liblua_plugin.dll",
+        "name": "liblua_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/lua/liblua_plugin.dll"
+    },
+    {
+        "md5": "13522d9fbfa7f6da40736dd465469dd1",
+        "path": "LibVlc\\plugins\\meta_engine\\libfolder_plugin.dll",
+        "name": "libfolder_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/meta_engine/libfolder_plugin.dll"
+    },
+    {
+        "md5": "45b366d89fd32f737d215bcfd3189679",
+        "path": "LibVlc\\plugins\\meta_engine\\libtaglib_plugin.dll",
+        "name": "libtaglib_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/meta_engine/libtaglib_plugin.dll"
+    },
+    {
+        "md5": "5ae27a214b0c49d21e7f20695f3de264",
+        "path": "LibVlc\\plugins\\misc\\libaddonsfsstorage_plugin.dll",
+        "name": "libaddonsfsstorage_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/misc/libaddonsfsstorage_plugin.dll"
+    },
+    {
+        "md5": "54f2f27d775d495e238c60c047ce83c4",
+        "path": "LibVlc\\plugins\\misc\\libaddonsvorepository_plugin.dll",
+        "name": "libaddonsvorepository_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/misc/libaddonsvorepository_plugin.dll"
+    },
+    {
+        "md5": "507db8cf07361fe6e88b04faab0247e9",
+        "path": "LibVlc\\plugins\\misc\\libaudioscrobbler_plugin.dll",
+        "name": "libaudioscrobbler_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/misc/libaudioscrobbler_plugin.dll"
+    },
+    {
+        "md5": "5da7aa71898910ad18d046a394bea9a0",
+        "path": "LibVlc\\plugins\\misc\\libexport_plugin.dll",
+        "name": "libexport_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/misc/libexport_plugin.dll"
+    },
+    {
+        "md5": "4d4830ddf9f3ce0a438ea37a377d3b66",
+        "path": "LibVlc\\plugins\\misc\\libfingerprinter_plugin.dll",
+        "name": "libfingerprinter_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/misc/libfingerprinter_plugin.dll"
+    },
+    {
+        "md5": "c751ff408b0e4408a8e67f9e695cb669",
+        "path": "LibVlc\\plugins\\misc\\libgnutls_plugin.dll",
+        "name": "libgnutls_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/misc/libgnutls_plugin.dll"
+    },
+    {
+        "md5": "583b3eb984d6a4c981207f37e839935b",
+        "path": "LibVlc\\plugins\\misc\\liblogger_plugin.dll",
+        "name": "liblogger_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/misc/liblogger_plugin.dll"
+    },
+    {
+        "md5": "ccb03d75d2b9bde9c69db10a0811cc76",
+        "path": "LibVlc\\plugins\\misc\\libstats_plugin.dll",
+        "name": "libstats_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/misc/libstats_plugin.dll"
+    },
+    {
+        "md5": "3b3217415d2709624a59d51fd78a50af",
+        "path": "LibVlc\\plugins\\misc\\libvod_rtsp_plugin.dll",
+        "name": "libvod_rtsp_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/misc/libvod_rtsp_plugin.dll"
+    },
+    {
+        "md5": "701bc13418c6a2032e51d33d18be970b",
+        "path": "LibVlc\\plugins\\misc\\libxml_plugin.dll",
+        "name": "libxml_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/misc/libxml_plugin.dll"
+    },
+    {
+        "md5": "c4ea21320bfedc4af9e490e293890bbc",
+        "path": "LibVlc\\plugins\\mux\\libmux_asf_plugin.dll",
+        "name": "libmux_asf_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/mux/libmux_asf_plugin.dll"
+    },
+    {
+        "md5": "7ae6f554c7b47a82900cc528b369695a",
+        "path": "LibVlc\\plugins\\mux\\libmux_avi_plugin.dll",
+        "name": "libmux_avi_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/mux/libmux_avi_plugin.dll"
+    },
+    {
+        "md5": "1bdde7f8f1fe239aa4ebafb9c81ecae8",
+        "path": "LibVlc\\plugins\\mux\\libmux_dummy_plugin.dll",
+        "name": "libmux_dummy_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/mux/libmux_dummy_plugin.dll"
+    },
+    {
+        "md5": "95e027328d6dda5b7923103f87746223",
+        "path": "LibVlc\\plugins\\mux\\libmux_mp4_plugin.dll",
+        "name": "libmux_mp4_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/mux/libmux_mp4_plugin.dll"
+    },
+    {
+        "md5": "9abd64599cb7e8065be78f49700284d2",
+        "path": "LibVlc\\plugins\\mux\\libmux_mpjpeg_plugin.dll",
+        "name": "libmux_mpjpeg_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/mux/libmux_mpjpeg_plugin.dll"
+    },
+    {
+        "md5": "8e8d1cb5f9c4b1645203a501ebf8fcc7",
+        "path": "LibVlc\\plugins\\mux\\libmux_ogg_plugin.dll",
+        "name": "libmux_ogg_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/mux/libmux_ogg_plugin.dll"
+    },
+    {
+        "md5": "9ad721ca8b394d3bf62a5240d39fc0ec",
+        "path": "LibVlc\\plugins\\mux\\libmux_ps_plugin.dll",
+        "name": "libmux_ps_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/mux/libmux_ps_plugin.dll"
+    },
+    {
+        "md5": "54d1872f566efb2da9e052b272809b58",
+        "path": "LibVlc\\plugins\\mux\\libmux_ts_plugin.dll",
+        "name": "libmux_ts_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/mux/libmux_ts_plugin.dll"
+    },
+    {
+        "md5": "295da920e603fc5dbce7ecec6ab76005",
+        "path": "LibVlc\\plugins\\mux\\libmux_wav_plugin.dll",
+        "name": "libmux_wav_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/mux/libmux_wav_plugin.dll"
+    },
+    {
+        "md5": "cab1b24189ba830e6daf1f3a9bc5f9d9",
+        "path": "LibVlc\\plugins\\packetizer\\libpacketizer_copy_plugin.dll",
+        "name": "libpacketizer_copy_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/packetizer/libpacketizer_copy_plugin.dll"
+    },
+    {
+        "md5": "f91aa17eb4d8a6434ed5d7a890a7f085",
+        "path": "LibVlc\\plugins\\packetizer\\libpacketizer_dirac_plugin.dll",
+        "name": "libpacketizer_dirac_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/packetizer/libpacketizer_dirac_plugin.dll"
+    },
+    {
+        "md5": "3e587c0e9f74c26e018b4751d8cb04ba",
+        "path": "LibVlc\\plugins\\packetizer\\libpacketizer_flac_plugin.dll",
+        "name": "libpacketizer_flac_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/packetizer/libpacketizer_flac_plugin.dll"
+    },
+    {
+        "md5": "5c609e73fbed05ac7cbf156b36007921",
+        "path": "LibVlc\\plugins\\packetizer\\libpacketizer_h264_plugin.dll",
+        "name": "libpacketizer_h264_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/packetizer/libpacketizer_h264_plugin.dll"
+    },
+    {
+        "md5": "71c4dbd54df7e8559bb65fe8d34f3ec5",
+        "path": "LibVlc\\plugins\\packetizer\\libpacketizer_hevc_plugin.dll",
+        "name": "libpacketizer_hevc_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/packetizer/libpacketizer_hevc_plugin.dll"
+    },
+    {
+        "md5": "8270a13752929a1c393226224fe0c4fc",
+        "path": "LibVlc\\plugins\\packetizer\\libpacketizer_mlp_plugin.dll",
+        "name": "libpacketizer_mlp_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/packetizer/libpacketizer_mlp_plugin.dll"
+    },
+    {
+        "md5": "6ed8da1c5a9391cf5fbb5b71ab9cd601",
+        "path": "LibVlc\\plugins\\packetizer\\libpacketizer_mpeg4audio_plugin.dll",
+        "name": "libpacketizer_mpeg4audio_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/packetizer/libpacketizer_mpeg4audio_plugin.dll"
+    },
+    {
+        "md5": "fc2218e42a0fd7e36a2f959c6d5d454a",
+        "path": "LibVlc\\plugins\\packetizer\\libpacketizer_mpeg4video_plugin.dll",
+        "name": "libpacketizer_mpeg4video_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/packetizer/libpacketizer_mpeg4video_plugin.dll"
+    },
+    {
+        "md5": "9efb848e32df847f01148e9f739ff5ca",
+        "path": "LibVlc\\plugins\\packetizer\\libpacketizer_mpegvideo_plugin.dll",
+        "name": "libpacketizer_mpegvideo_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/packetizer/libpacketizer_mpegvideo_plugin.dll"
+    },
+    {
+        "md5": "898d955380476c708ebcd2f2cd1ca0db",
+        "path": "LibVlc\\plugins\\packetizer\\libpacketizer_vc1_plugin.dll",
+        "name": "libpacketizer_vc1_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/packetizer/libpacketizer_vc1_plugin.dll"
+    },
+    {
+        "md5": "78e168a7e38ee60e83244990f825f627",
+        "path": "LibVlc\\plugins\\services_discovery\\libmediadirs_plugin.dll",
+        "name": "libmediadirs_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/services_discovery/libmediadirs_plugin.dll"
+    },
+    {
+        "md5": "3bbdd0fc9fd15273a26b97399ab1346a",
+        "path": "LibVlc\\plugins\\services_discovery\\libpodcast_plugin.dll",
+        "name": "libpodcast_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/services_discovery/libpodcast_plugin.dll"
+    },
+    {
+        "md5": "777c2090f123e69819536528cb6b297e",
+        "path": "LibVlc\\plugins\\services_discovery\\libsap_plugin.dll",
+        "name": "libsap_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/services_discovery/libsap_plugin.dll"
+    },
+    {
+        "md5": "87756e53d776b95580ed94c61ba50a1a",
+        "path": "LibVlc\\plugins\\services_discovery\\libupnp_plugin.dll",
+        "name": "libupnp_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/services_discovery/libupnp_plugin.dll"
+    },
+    {
+        "md5": "c1109e5aa5ce6a2fa1e4ba2b25fa8334",
+        "path": "LibVlc\\plugins\\services_discovery\\libwindrive_plugin.dll",
+        "name": "libwindrive_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/services_discovery/libwindrive_plugin.dll"
+    },
+    {
+        "md5": "a39fb296eb3d2e105fb49c20ffe72934",
+        "path": "LibVlc\\plugins\\stream_filter\\libdash_plugin.dll",
+        "name": "libdash_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/stream_filter/libdash_plugin.dll"
+    },
+    {
+        "md5": "1e1aae2c546b0d9be2ccca48de9b09a1",
+        "path": "LibVlc\\plugins\\stream_filter\\libhttplive_plugin.dll",
+        "name": "libhttplive_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/stream_filter/libhttplive_plugin.dll"
+    },
+    {
+        "md5": "cc95d64824afeb1258aee56cb4c19a46",
+        "path": "LibVlc\\plugins\\stream_filter\\librecord_plugin.dll",
+        "name": "librecord_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/stream_filter/librecord_plugin.dll"
+    },
+    {
+        "md5": "501d0872a93d9c66c66907d344f9e316",
+        "path": "LibVlc\\plugins\\stream_filter\\libsmooth_plugin.dll",
+        "name": "libsmooth_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/stream_filter/libsmooth_plugin.dll"
+    },
+    {
+        "md5": "3c88b649e11f36e507faa990c2018ab5",
+        "path": "LibVlc\\plugins\\stream_out\\libstream_out_autodel_plugin.dll",
+        "name": "libstream_out_autodel_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/stream_out/libstream_out_autodel_plugin.dll"
+    },
+    {
+        "md5": "4765cb2a22fd3a80c009130648338d6a",
+        "path": "LibVlc\\plugins\\stream_out\\libstream_out_bridge_plugin.dll",
+        "name": "libstream_out_bridge_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/stream_out/libstream_out_bridge_plugin.dll"
+    },
+    {
+        "md5": "01ded302e59767956cc7d6389bfb25ed",
+        "path": "LibVlc\\plugins\\stream_out\\libstream_out_chromaprint_plugin.dll",
+        "name": "libstream_out_chromaprint_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/stream_out/libstream_out_chromaprint_plugin.dll"
+    },
+    {
+        "md5": "eb19bdfc2924625858e4e3c5532aea60",
+        "path": "LibVlc\\plugins\\stream_out\\libstream_out_delay_plugin.dll",
+        "name": "libstream_out_delay_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/stream_out/libstream_out_delay_plugin.dll"
+    },
+    {
+        "md5": "43737bb71ef4dc6a6c0a39b0b3748945",
+        "path": "LibVlc\\plugins\\stream_out\\libstream_out_description_plugin.dll",
+        "name": "libstream_out_description_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/stream_out/libstream_out_description_plugin.dll"
+    },
+    {
+        "md5": "f4cd0428a25115637b2c37527614fcb8",
+        "path": "LibVlc\\plugins\\stream_out\\libstream_out_display_plugin.dll",
+        "name": "libstream_out_display_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/stream_out/libstream_out_display_plugin.dll"
+    },
+    {
+        "md5": "12020d0d10a55ce69371b2dd2cfb91e8",
+        "path": "LibVlc\\plugins\\stream_out\\libstream_out_dummy_plugin.dll",
+        "name": "libstream_out_dummy_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/stream_out/libstream_out_dummy_plugin.dll"
+    },
+    {
+        "md5": "f59a58f0d2c615146f22925034f9e18d",
+        "path": "LibVlc\\plugins\\stream_out\\libstream_out_duplicate_plugin.dll",
+        "name": "libstream_out_duplicate_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/stream_out/libstream_out_duplicate_plugin.dll"
+    },
+    {
+        "md5": "e7fffd0ac044b96ff37451b40a24006a",
+        "path": "LibVlc\\plugins\\stream_out\\libstream_out_es_plugin.dll",
+        "name": "libstream_out_es_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/stream_out/libstream_out_es_plugin.dll"
+    },
+    {
+        "md5": "8191b3cbc34dad494dd158da9c3e8a3e",
+        "path": "LibVlc\\plugins\\stream_out\\libstream_out_gather_plugin.dll",
+        "name": "libstream_out_gather_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/stream_out/libstream_out_gather_plugin.dll"
+    },
+    {
+        "md5": "1931d72bd95cd532c6700c769754ba64",
+        "path": "LibVlc\\plugins\\stream_out\\libstream_out_langfromtelx_plugin.dll",
+        "name": "libstream_out_langfromtelx_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/stream_out/libstream_out_langfromtelx_plugin.dll"
+    },
+    {
+        "md5": "98cbf7de6d079d04a8b3896c7cdc19ca",
+        "path": "LibVlc\\plugins\\stream_out\\libstream_out_mosaic_bridge_plugin.dll",
+        "name": "libstream_out_mosaic_bridge_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/stream_out/libstream_out_mosaic_bridge_plugin.dll"
+    },
+    {
+        "md5": "5e442b1d09e6f8b3af1c74fbac8b5231",
+        "path": "LibVlc\\plugins\\stream_out\\libstream_out_raop_plugin.dll",
+        "name": "libstream_out_raop_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/stream_out/libstream_out_raop_plugin.dll"
+    },
+    {
+        "md5": "8aa0fa6727a0c738c0d231609f506191",
+        "path": "LibVlc\\plugins\\stream_out\\libstream_out_record_plugin.dll",
+        "name": "libstream_out_record_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/stream_out/libstream_out_record_plugin.dll"
+    },
+    {
+        "md5": "53729e17550098876e555d96e8e8c934",
+        "path": "LibVlc\\plugins\\stream_out\\libstream_out_rtp_plugin.dll",
+        "name": "libstream_out_rtp_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/stream_out/libstream_out_rtp_plugin.dll"
+    },
+    {
+        "md5": "2107fcaa745e9682d3c9b173cfeab993",
+        "path": "LibVlc\\plugins\\stream_out\\libstream_out_setid_plugin.dll",
+        "name": "libstream_out_setid_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/stream_out/libstream_out_setid_plugin.dll"
+    },
+    {
+        "md5": "41d3e48d149edf128201b5509a8d2407",
+        "path": "LibVlc\\plugins\\stream_out\\libstream_out_smem_plugin.dll",
+        "name": "libstream_out_smem_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/stream_out/libstream_out_smem_plugin.dll"
+    },
+    {
+        "md5": "6b191167fa7a09661211d4d444adf420",
+        "path": "LibVlc\\plugins\\stream_out\\libstream_out_standard_plugin.dll",
+        "name": "libstream_out_standard_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/stream_out/libstream_out_standard_plugin.dll"
+    },
+    {
+        "md5": "066b260e1fa20d28ed6d5be470026877",
+        "path": "LibVlc\\plugins\\stream_out\\libstream_out_stats_plugin.dll",
+        "name": "libstream_out_stats_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/stream_out/libstream_out_stats_plugin.dll"
+    },
+    {
+        "md5": "63af9fc3b6dd23afcbf2268731f55232",
+        "path": "LibVlc\\plugins\\stream_out\\libstream_out_transcode_plugin.dll",
+        "name": "libstream_out_transcode_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/stream_out/libstream_out_transcode_plugin.dll"
+    },
+    {
+        "md5": "d18422221af24916c681d97f88811cfc",
+        "path": "LibVlc\\plugins\\text_renderer\\libfreetype_plugin.dll",
+        "name": "libfreetype_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/text_renderer/libfreetype_plugin.dll"
+    },
+    {
+        "md5": "4c965715a268f10da42956d7bed7d2c6",
+        "path": "LibVlc\\plugins\\text_renderer\\libtdummy_plugin.dll",
+        "name": "libtdummy_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/text_renderer/libtdummy_plugin.dll"
+    },
+    {
+        "md5": "b41751a0dcc5641135738eaaba242b7e",
+        "path": "LibVlc\\plugins\\video_chroma\\libchain_plugin.dll",
+        "name": "libchain_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_chroma/libchain_plugin.dll"
+    },
+    {
+        "md5": "4b835e26e05b98d6c7667d895bc2507f",
+        "path": "LibVlc\\plugins\\video_chroma\\libgrey_yuv_plugin.dll",
+        "name": "libgrey_yuv_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_chroma/libgrey_yuv_plugin.dll"
+    },
+    {
+        "md5": "3ecf5300e14d3fcabce7c5d13194b767",
+        "path": "LibVlc\\plugins\\video_chroma\\libi420_rgb_mmx_plugin.dll",
+        "name": "libi420_rgb_mmx_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_chroma/libi420_rgb_mmx_plugin.dll"
+    },
+    {
+        "md5": "817c9b537d123980ccb9b6c414740432",
+        "path": "LibVlc\\plugins\\video_chroma\\libi420_rgb_plugin.dll",
+        "name": "libi420_rgb_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_chroma/libi420_rgb_plugin.dll"
+    },
+    {
+        "md5": "b080be00132653dea7b18738ecd2335f",
+        "path": "LibVlc\\plugins\\video_chroma\\libi420_rgb_sse2_plugin.dll",
+        "name": "libi420_rgb_sse2_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_chroma/libi420_rgb_sse2_plugin.dll"
+    },
+    {
+        "md5": "d46d809c5377f148b2a4a4a90567222c",
+        "path": "LibVlc\\plugins\\video_chroma\\libi420_yuy2_mmx_plugin.dll",
+        "name": "libi420_yuy2_mmx_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_chroma/libi420_yuy2_mmx_plugin.dll"
+    },
+    {
+        "md5": "741ab7828e593584b2a2368139763dbf",
+        "path": "LibVlc\\plugins\\video_chroma\\libi420_yuy2_plugin.dll",
+        "name": "libi420_yuy2_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_chroma/libi420_yuy2_plugin.dll"
+    },
+    {
+        "md5": "a2e2ca533851ce7cf714a54f47c317cb",
+        "path": "LibVlc\\plugins\\video_chroma\\libi420_yuy2_sse2_plugin.dll",
+        "name": "libi420_yuy2_sse2_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_chroma/libi420_yuy2_sse2_plugin.dll"
+    },
+    {
+        "md5": "0f8bae61be281a6c3d5ca7d179320542",
+        "path": "LibVlc\\plugins\\video_chroma\\libi422_i420_plugin.dll",
+        "name": "libi422_i420_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_chroma/libi422_i420_plugin.dll"
+    },
+    {
+        "md5": "c7d73fdc59976decaba45982d4fdfdb4",
+        "path": "LibVlc\\plugins\\video_chroma\\libi422_yuy2_mmx_plugin.dll",
+        "name": "libi422_yuy2_mmx_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_chroma/libi422_yuy2_mmx_plugin.dll"
+    },
+    {
+        "md5": "b5cb47a98f0e90e4479465173a3567e1",
+        "path": "LibVlc\\plugins\\video_chroma\\libi422_yuy2_plugin.dll",
+        "name": "libi422_yuy2_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_chroma/libi422_yuy2_plugin.dll"
+    },
+    {
+        "md5": "5488907120b0d0eaf36917d4854208c0",
+        "path": "LibVlc\\plugins\\video_chroma\\libi422_yuy2_sse2_plugin.dll",
+        "name": "libi422_yuy2_sse2_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_chroma/libi422_yuy2_sse2_plugin.dll"
+    },
+    {
+        "md5": "44e31f5895d2c9d87d7f38a9d3dde638",
+        "path": "LibVlc\\plugins\\video_chroma\\librv32_plugin.dll",
+        "name": "librv32_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_chroma/librv32_plugin.dll"
+    },
+    {
+        "md5": "c8a8dbf6764e386c7a870bb31e5b0437",
+        "path": "LibVlc\\plugins\\video_chroma\\libswscale_plugin.dll",
+        "name": "libswscale_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_chroma/libswscale_plugin.dll"
+    },
+    {
+        "md5": "acc319a90a453fa07591c47517f5dba6",
+        "path": "LibVlc\\plugins\\video_chroma\\libyuy2_i420_plugin.dll",
+        "name": "libyuy2_i420_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_chroma/libyuy2_i420_plugin.dll"
+    },
+    {
+        "md5": "a3b33e95898bf83b324d901571c2dd77",
+        "path": "LibVlc\\plugins\\video_chroma\\libyuy2_i422_plugin.dll",
+        "name": "libyuy2_i422_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_chroma/libyuy2_i422_plugin.dll"
+    },
+    {
+        "md5": "02fb5fad3140b16731aa4c8df660e4f1",
+        "path": "LibVlc\\plugins\\video_filter\\libadjust_plugin.dll",
+        "name": "libadjust_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libadjust_plugin.dll"
+    },
+    {
+        "md5": "b7c94aacf3e2b955d0a651f1bb84518f",
+        "path": "LibVlc\\plugins\\video_filter\\libalphamask_plugin.dll",
+        "name": "libalphamask_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libalphamask_plugin.dll"
+    },
+    {
+        "md5": "85e3a97373ebef2f5be30997a2061c3c",
+        "path": "LibVlc\\plugins\\video_filter\\libanaglyph_plugin.dll",
+        "name": "libanaglyph_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libanaglyph_plugin.dll"
+    },
+    {
+        "md5": "7036146d564705816361a72beb75ccde",
+        "path": "LibVlc\\plugins\\video_filter\\libantiflicker_plugin.dll",
+        "name": "libantiflicker_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libantiflicker_plugin.dll"
+    },
+    {
+        "md5": "26ab84bf7621058b50689c03ec05b076",
+        "path": "LibVlc\\plugins\\video_filter\\libatmo_plugin.dll",
+        "name": "libatmo_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libatmo_plugin.dll"
+    },
+    {
+        "md5": "0a9b5dbcc77d8e55fe1733369aeb3c00",
+        "path": "LibVlc\\plugins\\video_filter\\libaudiobargraph_v_plugin.dll",
+        "name": "libaudiobargraph_v_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libaudiobargraph_v_plugin.dll"
+    },
+    {
+        "md5": "e7c1df24318c1576b77957900bdae396",
+        "path": "LibVlc\\plugins\\video_filter\\libball_plugin.dll",
+        "name": "libball_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libball_plugin.dll"
+    },
+    {
+        "md5": "cfe2c252fef427a2bc9be6fe51bbe139",
+        "path": "LibVlc\\plugins\\video_filter\\libblendbench_plugin.dll",
+        "name": "libblendbench_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libblendbench_plugin.dll"
+    },
+    {
+        "md5": "c625d25d54ed2bd73c89b6ffee0896f6",
+        "path": "LibVlc\\plugins\\video_filter\\libblend_plugin.dll",
+        "name": "libblend_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libblend_plugin.dll"
+    },
+    {
+        "md5": "0ffdc65a8e97b10655c3d3fcf1bf7cbe",
+        "path": "LibVlc\\plugins\\video_filter\\libbluescreen_plugin.dll",
+        "name": "libbluescreen_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libbluescreen_plugin.dll"
+    },
+    {
+        "md5": "265bc2c59ec5077af3a569175c10c36e",
+        "path": "LibVlc\\plugins\\video_filter\\libcanvas_plugin.dll",
+        "name": "libcanvas_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libcanvas_plugin.dll"
+    },
+    {
+        "md5": "47d7845e950a5bb8f6e5ba850975e8d0",
+        "path": "LibVlc\\plugins\\video_filter\\libcolorthres_plugin.dll",
+        "name": "libcolorthres_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libcolorthres_plugin.dll"
+    },
+    {
+        "md5": "bbe539070c45d4618840b8709003ced5",
+        "path": "LibVlc\\plugins\\video_filter\\libcroppadd_plugin.dll",
+        "name": "libcroppadd_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libcroppadd_plugin.dll"
+    },
+    {
+        "md5": "a40cac87075a4d7afd6846f1c845d183",
+        "path": "LibVlc\\plugins\\video_filter\\libdeinterlace_plugin.dll",
+        "name": "libdeinterlace_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libdeinterlace_plugin.dll"
+    },
+    {
+        "md5": "f246261c21c0ecf56cd884bb3cf68084",
+        "path": "LibVlc\\plugins\\video_filter\\liberase_plugin.dll",
+        "name": "liberase_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/liberase_plugin.dll"
+    },
+    {
+        "md5": "eb6cbdb50f815b790a32c2b683e92787",
+        "path": "LibVlc\\plugins\\video_filter\\libextract_plugin.dll",
+        "name": "libextract_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libextract_plugin.dll"
+    },
+    {
+        "md5": "537904bf6d602e5c0b4ea3f93879c882",
+        "path": "LibVlc\\plugins\\video_filter\\libfreeze_plugin.dll",
+        "name": "libfreeze_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libfreeze_plugin.dll"
+    },
+    {
+        "md5": "509a28b3d2b54965336fc19c87047d59",
+        "path": "LibVlc\\plugins\\video_filter\\libgaussianblur_plugin.dll",
+        "name": "libgaussianblur_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libgaussianblur_plugin.dll"
+    },
+    {
+        "md5": "005f655503198de0e5bc1d3a89a0becd",
+        "path": "LibVlc\\plugins\\video_filter\\libgradfun_plugin.dll",
+        "name": "libgradfun_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libgradfun_plugin.dll"
+    },
+    {
+        "md5": "c408e8f6ffa722e7fa3d56eb7f59267b",
+        "path": "LibVlc\\plugins\\video_filter\\libgradient_plugin.dll",
+        "name": "libgradient_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libgradient_plugin.dll"
+    },
+    {
+        "md5": "a532c029ba93538142033ce9749ed82f",
+        "path": "LibVlc\\plugins\\video_filter\\libgrain_plugin.dll",
+        "name": "libgrain_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libgrain_plugin.dll"
+    },
+    {
+        "md5": "16e1d16f0b780baa0514053b19c31c19",
+        "path": "LibVlc\\plugins\\video_filter\\libhqdn3d_plugin.dll",
+        "name": "libhqdn3d_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libhqdn3d_plugin.dll"
+    },
+    {
+        "md5": "a0a4a89f396e90f4f4830d4fa6127f14",
+        "path": "LibVlc\\plugins\\video_filter\\libinvert_plugin.dll",
+        "name": "libinvert_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libinvert_plugin.dll"
+    },
+    {
+        "md5": "234ce1262a38505735cb65b830e5d599",
+        "path": "LibVlc\\plugins\\video_filter\\liblogo_plugin.dll",
+        "name": "liblogo_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/liblogo_plugin.dll"
+    },
+    {
+        "md5": "b981623be6078242d277a7db54f50643",
+        "path": "LibVlc\\plugins\\video_filter\\libmagnify_plugin.dll",
+        "name": "libmagnify_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libmagnify_plugin.dll"
+    },
+    {
+        "md5": "80a1238a527a232a2d5a0a376b398fb0",
+        "path": "LibVlc\\plugins\\video_filter\\libmarq_plugin.dll",
+        "name": "libmarq_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libmarq_plugin.dll"
+    },
+    {
+        "md5": "42c43a219629fbd84b46511effc3b0a2",
+        "path": "LibVlc\\plugins\\video_filter\\libmirror_plugin.dll",
+        "name": "libmirror_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libmirror_plugin.dll"
+    },
+    {
+        "md5": "9aa9079d3532ab9450e0f61ca1089e6e",
+        "path": "LibVlc\\plugins\\video_filter\\libmosaic_plugin.dll",
+        "name": "libmosaic_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libmosaic_plugin.dll"
+    },
+    {
+        "md5": "3a3efa1ca5956315922268e0651494fb",
+        "path": "LibVlc\\plugins\\video_filter\\libmotionblur_plugin.dll",
+        "name": "libmotionblur_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libmotionblur_plugin.dll"
+    },
+    {
+        "md5": "85354d8f5d2c886797d4fa3a058bed35",
+        "path": "LibVlc\\plugins\\video_filter\\libmotiondetect_plugin.dll",
+        "name": "libmotiondetect_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libmotiondetect_plugin.dll"
+    },
+    {
+        "md5": "4167da3bc20b9015c88bd99459813ee9",
+        "path": "LibVlc\\plugins\\video_filter\\liboldmovie_plugin.dll",
+        "name": "liboldmovie_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/liboldmovie_plugin.dll"
+    },
+    {
+        "md5": "8f69f3f95187508850231cd77e1258b6",
+        "path": "LibVlc\\plugins\\video_filter\\libposterize_plugin.dll",
+        "name": "libposterize_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libposterize_plugin.dll"
+    },
+    {
+        "md5": "2e586c5fffe659e6bbe7933cd781dc34",
+        "path": "LibVlc\\plugins\\video_filter\\libpostproc_plugin.dll",
+        "name": "libpostproc_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libpostproc_plugin.dll"
+    },
+    {
+        "md5": "84355a0a12d370b7bd262dd7d053daaf",
+        "path": "LibVlc\\plugins\\video_filter\\libpsychedelic_plugin.dll",
+        "name": "libpsychedelic_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libpsychedelic_plugin.dll"
+    },
+    {
+        "md5": "ec0fb4002d05ee86036e1a689781dc78",
+        "path": "LibVlc\\plugins\\video_filter\\libpuzzle_plugin.dll",
+        "name": "libpuzzle_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libpuzzle_plugin.dll"
+    },
+    {
+        "md5": "41e9f9920df1e75e65c078523dba210b",
+        "path": "LibVlc\\plugins\\video_filter\\libremoteosd_plugin.dll",
+        "name": "libremoteosd_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libremoteosd_plugin.dll"
+    },
+    {
+        "md5": "6fa71e766f591771af33b7cdb4a1a277",
+        "path": "LibVlc\\plugins\\video_filter\\libripple_plugin.dll",
+        "name": "libripple_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libripple_plugin.dll"
+    },
+    {
+        "md5": "a9d4e9f6d9474c01224c2e49634a25bc",
+        "path": "LibVlc\\plugins\\video_filter\\librotate_plugin.dll",
+        "name": "librotate_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/librotate_plugin.dll"
+    },
+    {
+        "md5": "13f4b0fe3d0ceeb1ab640b844e35a33f",
+        "path": "LibVlc\\plugins\\video_filter\\librss_plugin.dll",
+        "name": "librss_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/librss_plugin.dll"
+    },
+    {
+        "md5": "228108343dcc99dc01dda2ed749df081",
+        "path": "LibVlc\\plugins\\video_filter\\libscale_plugin.dll",
+        "name": "libscale_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libscale_plugin.dll"
+    },
+    {
+        "md5": "293e020ccd1d11e4406d47d3d6558a31",
+        "path": "LibVlc\\plugins\\video_filter\\libscene_plugin.dll",
+        "name": "libscene_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libscene_plugin.dll"
+    },
+    {
+        "md5": "a50c0baf0261fb9516af5690e683aaad",
+        "path": "LibVlc\\plugins\\video_filter\\libsepia_plugin.dll",
+        "name": "libsepia_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libsepia_plugin.dll"
+    },
+    {
+        "md5": "2fe0bda9111e3895d6e5307c299cdea8",
+        "path": "LibVlc\\plugins\\video_filter\\libsharpen_plugin.dll",
+        "name": "libsharpen_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libsharpen_plugin.dll"
+    },
+    {
+        "md5": "881eff914b4b57a91c4a8e241928e841",
+        "path": "LibVlc\\plugins\\video_filter\\libsubsdelay_plugin.dll",
+        "name": "libsubsdelay_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libsubsdelay_plugin.dll"
+    },
+    {
+        "md5": "b19a86ec6404231b6dff14f48fbf494b",
+        "path": "LibVlc\\plugins\\video_filter\\libtransform_plugin.dll",
+        "name": "libtransform_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libtransform_plugin.dll"
+    },
+    {
+        "md5": "40b4c5f85b328f651380ffae353abafb",
+        "path": "LibVlc\\plugins\\video_filter\\libvhs_plugin.dll",
+        "name": "libvhs_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libvhs_plugin.dll"
+    },
+    {
+        "md5": "e8ae3ddc7f8074f2992bd62a0194c281",
+        "path": "LibVlc\\plugins\\video_filter\\libwave_plugin.dll",
+        "name": "libwave_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libwave_plugin.dll"
+    },
+    {
+        "md5": "8de4de7a1182dc3ce8922e0f4f64ad0b",
+        "path": "LibVlc\\plugins\\video_filter\\libyuvp_plugin.dll",
+        "name": "libyuvp_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_filter/libyuvp_plugin.dll"
+    },
+    {
+        "md5": "e7b7b52d0683575ad645c034b303efa5",
+        "path": "LibVlc\\plugins\\video_output\\libcaca_plugin.dll",
+        "name": "libcaca_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_output/libcaca_plugin.dll"
+    },
+    {
+        "md5": "04cab34be96104d95ce5b829d0a57678",
+        "path": "LibVlc\\plugins\\video_output\\libdirect2d_plugin.dll",
+        "name": "libdirect2d_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_output/libdirect2d_plugin.dll"
+    },
+    {
+        "md5": "53bc80a19df89ae099d9e36ec4ad0889",
+        "path": "LibVlc\\plugins\\video_output\\libdirect3d_plugin.dll",
+        "name": "libdirect3d_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_output/libdirect3d_plugin.dll"
+    },
+    {
+        "md5": "f38c1074e51642020549af3e6e7d0d82",
+        "path": "LibVlc\\plugins\\video_output\\libdirectdraw_plugin.dll",
+        "name": "libdirectdraw_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_output/libdirectdraw_plugin.dll"
+    },
+    {
+        "md5": "64c06fc33eec17b7d00933ded893cef9",
+        "path": "LibVlc\\plugins\\video_output\\libdrawable_plugin.dll",
+        "name": "libdrawable_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_output/libdrawable_plugin.dll"
+    },
+    {
+        "md5": "e7c526f50c89ff9d5cd421f6928b7a52",
+        "path": "LibVlc\\plugins\\video_output\\libglwin32_plugin.dll",
+        "name": "libglwin32_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_output/libglwin32_plugin.dll"
+    },
+    {
+        "md5": "ea14e3d193f1cbcf2602ead6075770f9",
+        "path": "LibVlc\\plugins\\video_output\\libgl_plugin.dll",
+        "name": "libgl_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_output/libgl_plugin.dll"
+    },
+    {
+        "md5": "6279f2f15ebe3c8fba133bbfe8d8eefe",
+        "path": "LibVlc\\plugins\\video_output\\libvdummy_plugin.dll",
+        "name": "libvdummy_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_output/libvdummy_plugin.dll"
+    },
+    {
+        "md5": "a9951a47efd3bd486565ae77ce4e792f",
+        "path": "LibVlc\\plugins\\video_output\\libvmem_plugin.dll",
+        "name": "libvmem_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_output/libvmem_plugin.dll"
+    },
+    {
+        "md5": "2255cdf2e1348a4ede83998a045ed9a4",
+        "path": "LibVlc\\plugins\\video_output\\libwingdi_plugin.dll",
+        "name": "libwingdi_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_output/libwingdi_plugin.dll"
+    },
+    {
+        "md5": "66e347e4e9cd3178976f74a40e1b98aa",
+        "path": "LibVlc\\plugins\\video_output\\libyuv_plugin.dll",
+        "name": "libyuv_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_output/libyuv_plugin.dll"
+    },
+    {
+        "md5": "fc40bff129892488842b52d5cac20836",
+        "path": "LibVlc\\plugins\\video_splitter\\libclone_plugin.dll",
+        "name": "libclone_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_splitter/libclone_plugin.dll"
+    },
+    {
+        "md5": "c26f1935f37d0ca564a95b67066e7045",
+        "path": "LibVlc\\plugins\\video_splitter\\libpanoramix_plugin.dll",
+        "name": "libpanoramix_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_splitter/libpanoramix_plugin.dll"
+    },
+    {
+        "md5": "66586692458e8b0b4acbf2d05f010e47",
+        "path": "LibVlc\\plugins\\video_splitter\\libwall_plugin.dll",
+        "name": "libwall_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/video_splitter/libwall_plugin.dll"
+    },
+    {
+        "md5": "f27414c527e295d1960b914c2ceef341",
+        "path": "LibVlc\\plugins\\visualization\\libglspectrum_plugin.dll",
+        "name": "libglspectrum_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/visualization/libglspectrum_plugin.dll"
+    },
+    {
+        "md5": "9fe325b80c9438a1962b7270e586fea1",
+        "path": "LibVlc\\plugins\\visualization\\libgoom_plugin.dll",
+        "name": "libgoom_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/visualization/libgoom_plugin.dll"
+    },
+    {
+        "md5": "9e57d8348ebd97cdad508dd8d8a8cd54",
+        "path": "LibVlc\\plugins\\visualization\\libprojectm_plugin.dll",
+        "name": "libprojectm_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/visualization/libprojectm_plugin.dll"
+    },
+    {
+        "md5": "6e8412f6e06e8bd63d0f797d8e473029",
+        "path": "LibVlc\\plugins\\visualization\\libvisual_plugin.dll",
+        "name": "libvisual_plugin.dll",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/LibVlc/plugins/visualization/libvisual_plugin.dll"
+    },
+    {
+        "md5": "3bcf0c1c27d5a0ccd57ec3b00d4a17ed",
+        "path": "Res\\payagain.wav",
+        "name": "payagain.wav",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/Res/payagain.wav"
+    },
+    {
+        "md5": "868247a05fd82c2b5fe972afa5eb38f1",
+        "path": "Res\\vrzone_top.mp4",
+        "name": "vrzone_top.mp4",
+        "url": "http://vrzone.oss-cn-shanghai.aliyuncs.com/update/build/11/Res/vrzone_top.mp4"
+    }
+]

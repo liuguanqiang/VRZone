@@ -1,0 +1,20 @@
+﻿<Window x:Class="VRZoneCenter.Classes.Forms.VZ_ZoneHelpWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VRZoneCenter.Classes.Forms"
+        mc:Ignorable="d"
+        xmlns:controls="http://metro.mahapps.com/winfx/xaml/controls"
+        AllowsTransparency="True"
+        Title="帮助" Height="1080" Width="1920" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowState="Maximized" Background="#7F000000" WindowStyle="None" Activated="Window_Activated">
+    <Grid>
+        <Image VerticalAlignment="Center" HorizontalAlignment="Center" Source="/VRZoneCenter;component/Res/zone_help.png" MaxWidth="1684" MaxHeight="717" />
+        <controls:Tile Name="okBt" Width="405" Height="90" Margin="0,580,0,0" VerticalAlignment="Center" HorizontalAlignment="Center" Click="okBt_Click">
+            <controls:Tile.Background>
+                <ImageBrush ImageSource="../../Res/bt_ok.png"/>
+            </controls:Tile.Background>
+            <TextBlock Name="tb_close" Text="知道了(20)" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="38"/>
+        </controls:Tile>
+    </Grid>
+</Window>

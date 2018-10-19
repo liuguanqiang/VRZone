@@ -1,0 +1,54 @@
+﻿<Window x:Class="VRZoneCenter.Classes.Forms.VZ_FinishWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VRZoneCenter.Classes.Forms"
+        mc:Ignorable="d"
+        AllowsTransparency="True"
+        Title="帮助" Height="1080" Width="1920" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowState="Maximized"  WindowStyle="None" Closing="Window_Closing" Activated="Window_Activated">
+    
+    <Window.Background>
+        <ImageBrush ImageSource="/VRZoneCenter;component/Res/thank_bg.png"/>
+    </Window.Background>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="1.3*"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="150"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="100"/>
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="0">
+                <Grid Width="100" Height="100" HorizontalAlignment="Right" Margin="0,0,100,0">
+                    <Image Source="/VRZoneCenter;component/Res/ring_color.png" Width="100" Height="100"/>
+                    <TextBlock Name="tbTime" Foreground="White" Text="30" FontSize="50" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                    <Canvas Name="canvas" Width="100" Height="100" Background="Transparent"/>
+                </Grid>
+
+            </Grid>
+            <Grid Grid.Row="1">
+                <Image Source="/VRZoneCenter;component/Res/thank_pay.png" HorizontalAlignment="Left"/>
+                <Grid  Name="grid2" HorizontalAlignment="Left" Width="800" Margin="50">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="250"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="150"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Image Name="img_price3" Margin="40,0,40,0" Grid.Row="1" Grid.Column="0" Stretch="Uniform"/>
+                    <Image Name="img_price4" Margin="40,0,40,0" Grid.Row="1" Grid.Column="1" Stretch="Uniform"/>
+                    <TextBlock Name="tb_price3" Text="   分钟     元" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="2" Grid.Column="0" Margin="0,0,0,45" FontSize="30"/>
+                    <TextBlock Name="tb_price4" Text="   分钟     元" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="2" Grid.Column="1" Margin="0,0,0,45" FontSize="30"/>
+                </Grid>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

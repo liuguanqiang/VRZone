@@ -1,0 +1,49 @@
+﻿<Window x:Class="VRZoneCenter.Classes.Forms.VZ_PayDoubleWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VRZoneCenter.Classes.Forms"
+        xmlns:controls="http://metro.mahapps.com/winfx/xaml/controls"
+        mc:Ignorable="d"
+        AllowsTransparency="True"
+        Title="支付提醒" Height="1080" Width="1920" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowState="Maximized" Background="#7F000000" WindowStyle="None" Activated="Window_Activated">
+    <Grid>
+        <Grid Height="540">
+            <Image VerticalAlignment="Center" HorizontalAlignment="Center" Source="/VRZoneCenter;component/Res/pay_double.png"/>
+            <controls:Tile Name="btClose"  Background="Transparent" Width="67" Height="67" VerticalAlignment="Top" Margin="600,0,0,0" Click="btClose_Click">
+                <Image Source="/VRZoneCenter;component/Res/bt_close.png" />
+            </controls:Tile>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="75"/>
+                    <RowDefinition Height="205"/>
+                    <RowDefinition Height="120"/>
+                    <RowDefinition Height="85"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="270"/>
+                        <ColumnDefinition Width="270"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Image Name="imgCode1" Width="200" Height="200" Grid.Column="1"/>
+                    <Image Name="imgCode2" Width="200" Height="200" Grid.Column="2"/>
+                </Grid>
+                <Grid Grid.Row="2">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="270"/>
+                        <ColumnDefinition Width="270"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Name="tbPrice1" Grid.Column="1" VerticalAlignment="Center" Text="     元/     分钟" TextAlignment="Center" Foreground="White" FontSize="20"/>
+                    <TextBlock Name="tbPrice2" Grid.Column="2" VerticalAlignment="Center" Text="     元/     分钟" TextAlignment="Center" Foreground="White" FontSize="20"/>
+                </Grid>
+                <TextBlock Name="tbTime" Text="用时即将结束 请扫码支付(15)" Grid.Row="3" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White" FontSize="20"/>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

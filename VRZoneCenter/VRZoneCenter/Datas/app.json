@@ -1,0 +1,128 @@
+﻿[
+  {
+    "appID": "1",
+    "appName": "VR影院",
+    "appExeName": "vrzone_V1.2.2.exe",
+    "appPath": "vrzone_V1.2.2\\vrzone_V1.2.2.exe",
+    "appImgPath": "vrzone_V1.2.2\\game.png",
+    "monitorNO": 1,
+    "type": "app",
+    "moviePath": "fruit\\FNVR_GameplayTrailer.mp4",
+    "bgPath": "fruit\\bg.png",
+    "tagList": [
+    ]
+  },
+  {
+    "appID": "2",
+    "appName": "僵尸小镇",
+    "appExeName": "ZombiTown.exe",
+    "appPath": "ZombiesTown VR\\ZombiTown.exe",
+    "appImgPath": "ZombiesTown VR\\game.png",
+    "monitorNO": 2,
+    "type": "game",
+    "moviePath": "ZombiesTown VR\\ZombiesTown VR - Gameplay Trailer.mp4",
+    "bgPath": "ZombiesTown VR\\bg.png",
+    "tagList": [
+      "射击",
+      "暴力",
+      "坐玩"
+    ]
+  },
+  {
+    "appID": "7",
+    "appName": "Tilt Brush",
+    "appExeName": "TiltBrush.exe",
+    "appPath": "Tilt Brush\\TiltBrush.exe",
+    "appImgPath": "Tilt Brush\\game.png",
+    "monitorNO": 2,
+    "type": "game",
+    "moviePath": "Tilt Brush\\Tilt Brush.mp4",
+    "bgPath": "Tilt Brush\\bg.png",
+    "tagList": [
+      "绘画",
+      "创意",
+      "坐玩"
+    ]
+  },
+  {
+    "appID": "3",
+    "appName": "水果忍者",
+    "appExeName": "FruitNinjaVR.exe",
+    "appPath": "FruitNinjaVR\\FruitNinjaVR.exe",
+    "appImgPath": "FruitNinjaVR\\game.png",
+    "monitorNO": 2,
+    "type": "game",
+    "moviePath": "FruitNinjaVR\\FNVR_GameplayTrailer.mp4",
+    "bgPath": "FruitNinjaVR\\bg.png",
+    "tagList": [
+      "挥动",
+      "休闲",
+      "站立"
+    ]
+  },
+  {
+    "appID": "6",
+    "appName": "僵尸暴乱",
+    "appExeName": "ZombieRiot.exe",
+    "appPath": "ZombieRiot\\ZombieRiot.exe",
+    "appImgPath": "ZombieRiot\\game.png",
+    "monitorNO": 2,
+    "type": "game",
+    "moviePath": "ZombieRiot\\Zombie Riot.mp4",
+    "bgPath": "ZombieRiot\\bg.png",
+    "tagList": [
+      "射击",
+      "暴力",
+      "坐玩"
+    ]
+  },
+  {
+    "appID": "4",
+    "appName": "神之箭",
+    "appExeName": "GoAgame.exe",
+    "appPath": "God Of Arrows VR\\GoAgame.exe",
+    "appImgPath": "God Of Arrows VR\\game.png",
+    "monitorNO": 2,
+    "type": "game",
+    "moviePath": "God Of Arrows VR\\God Of Arrows VR.mp4",
+    "bgPath": "God Of Arrows VR\\bg.png",
+    "tagList": [
+      "射箭",
+      "休闲",
+      "站立"
+    ]
+  },
+  {
+    "appID": "5",
+    "appName": "极限过山车",
+    "appExeName": "VRCoasterExtreme.exe",
+    "appPath": "VR Coaster Extreme\\VRCoasterExtreme.exe",
+    "appImgPath": "VR Coaster Extreme\\game.png",
+    "monitorNO": 2,
+    "type": "game",
+    "moviePath": "VR Coaster Extreme\\VR Coaster Extreme - Steam Game Trailer.mp4",
+    "bgPath": "VR Coaster Extreme\\bg.png",
+    "tagList": [
+      "过山车",
+      "刺激",
+      "坐玩"
+    ]
+  }
+    //},
+    //{
+    //  "appID": "8",
+    //  "appName": "蜘蛛侠",
+    //  "appExeName": "ArizonaSunshine",
+    //  "appPath": "D:\\game\\ArizonaSunshine\\ArizonaSunshine\\juzivr_x64.exe",
+    //  "appImgPath": "D:\\game\\VR Coaster Extreme\\game.png",
+    //  "monitorNO": 2,
+    //  "type": "game",
+    //  "moviePath": "D:\\game\\VR Coaster Extreme\\VR Coaster Extreme - Steam Game Trailer.mp4",
+    //  "bgPath": "D:\\game\\VR Coaster Extreme\\bg.png",
+    //  "tagList": [
+    //    "超级英雄",
+    //    "刺激",
+    //    "坐玩"
+    //  ]
+    //}
+]
